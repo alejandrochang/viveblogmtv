@@ -11,7 +11,7 @@ const App: React.FC = () => (
     <Header />
     <Routes>
       <Route path="/" Component={HomePage} />
-      <Route path="/post/:postId" Component={PostPage} />
+      <Route path="/sermon/:postId" Component={PostPage} />
     </Routes>
     <Footer />
   </Router>

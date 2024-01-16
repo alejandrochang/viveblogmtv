@@ -105,13 +105,30 @@ header span {
 .article-container {
   max-width: 100%;
   margin: 0px auto;
-  padding: 0px 16px;
+  padding: 0px 24px;
+  text-align: left;
 }
 
 iframe {
   width: 560px;
   height: 315px;
   border: none;
+  margin-bottom: 16px;;
+}
+
+article p {
+  font-size: 14px;
+  margin: 0;
+  color: #717171;
+  margin-bottom: 8px;
+}
+
+article .title {
+  color: #000000;
+  font-weight: 700;
+  font-size: 20px;
+  margin-bottom: 16px;
+  text-align: center;
 }
 
 /* Responsive Styles */
@@ -136,7 +153,13 @@ iframe {
     overflow: hidden;
   }
   iframe {
-    width: inherit;
+    width: 100%;
     height: inherit;
   }
+}
+
+.border-line {
+  border-bottom: 1.5px solid #d6d6d6;
+  margin-top: 20px;
+  margin-bottom: 20px;
 }

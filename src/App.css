@@ -51,28 +51,6 @@
   font-size: 20px;
 }
 
-@media (max-width: 600px) {
-  .blog-post {
-    width: 100%;
-  }
-
-  .blog-container {
-    padding: 20px;
-  }
-
-  .blog-content .title {
-    font-size: 16px;
-  }
-
-  .blog-post p {
-    font-size: 12px;
-    display: -webkit-box;
-    -webkit-line-clamp: 3;
-    -webkit-box-orient: vertical;
-    overflow: hidden;
-  }
-}
-
 body {
   margin: 0;
   padding: 0;
@@ -122,4 +100,43 @@ header span {
   border-radius: 5px;
   font-family: "Lucida Console", "Courier New", monospace;
   font-weight: bold;
+}
+
+.article-container {
+  max-width: 100%;
+  margin: 0px auto;
+  padding: 0px 16px;
+}
+
+iframe {
+  width: 560px;
+  height: 315px;
+  border: none;
+}
+
+/* Responsive Styles */
+@media (max-width: 600px) {
+  .blog-post {
+    width: 100%;
+  }
+
+  .blog-container {
+    padding: 20px;
+  }
+
+  .blog-content .title {
+    font-size: 16px;
+  }
+
+  .blog-post p {
+    font-size: 12px;
+    display: -webkit-box;
+    -webkit-line-clamp: 3;
+    -webkit-box-orient: vertical;
+    overflow: hidden;
+  }
+  iframe {
+    width: inherit;
+    height: inherit;
+  }
 }

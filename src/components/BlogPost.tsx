@@ -10,14 +10,12 @@ interface BlogPostProps {
 const BlogPost: React.FC<BlogPostProps> = ({ post }) => (
   <article>
     <h2>{post.title}</h2>
-    <p>{post.content}</p>
     <iframe
-      width="560"
-      height="315"
       src={post.src}
       title={post.title}
       allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share"
-    ></iframe>
+    />
+    <p>{post.content}</p>
   </article>
 );
 

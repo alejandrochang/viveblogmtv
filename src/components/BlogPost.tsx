@@ -16,12 +16,28 @@ const BlogPost: React.FC<BlogPostProps> = ({ post }) => (
     />
     <p>{post.content}</p>
     <div className="border-line" />
-    <p className="title">{'Scripture References'}</p>
+    <p className="title">{"Scripture References"}</p>
     <p>
-      {post.scriptures.map(s => {
+      {post.scriptures.map((s) => {
         const encodeSearch = encodeURIComponent(s);
         const url = `https://www.biblegateway.com/passage/?search=${encodeSearch}&version=NIV`;
-        return <a href={url}><li>{s}</li></a>
+        return (
+          <a href={url}>
+            <li>{s}</li>
+          </a>
+        );
+      })}
+    </p>
+    <div className="border-line" />
+    <p className="title">{"Sermon Notes"}</p>
+    <p>
+      {post.notes.map((sentence) => {
+        return (
+          <>
+            <div>{sentence}</div>
+            <br />
+          </>
+        );
       })}
     </p>
   </article>

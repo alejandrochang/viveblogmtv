@@ -1,8 +1,28 @@
 import LetsAllBeLosers from "../assets/letsallbealllosers.png";
 import CarryYourCross from "../assets/carryyourcross.jpg";
+import WhatDidYouDo from "../assets/whatdidyoudo.jpg";
 
 export const mockData: BlogListProps = {
   posts: [
+    {
+      id: "what-did-you-do",
+      title: "What Did You Do?",
+      content: "Teaching from Matthew 16:24, Pastor Adam Smallcombe brings a message that will challenge your understanding of faith and works. As Christians, your participation in building the kingdom is not a gentle invitation but rather an expectation. Grab your bible and get ready to take notes on this powerful message titled “What Did You Do?” in our SOLD OUT series.",
+      date: "2024-01-21",
+      src: "https://www.youtube.com/embed/4mLhA3JztB0?si=TV-oL0ZOhCD1nx_F",
+      coverImg: WhatDidYouDo,
+      series: 'Sold Out',
+      scriptures: ['Matthew 16:24-28', 'Ephesians 2:8-9', 'Matthew 5:16', 'James 2:14', 'James 2:17-18', 'James 2:26', 'Colossians 3:24', 'Galatians 6:9', 'Matthew 10:32', 'Matthew 10:38-39', '2 Timothy 4:8', '2 Timothy 4:1'],
+      notes: [
+        'If I show up should I get some praise? In culture we are currently seeing how everyone in this world wants a participation tropy, wants individual praise. Even in the christian world we are seeing this idea of participation awards',
+        'What does your participation look like in the Kingdom? And where does your heart stand with this participation? Theres this idea of resting and not striving to grow in your faith.',
+        'Are you looking for validation, or are you doing it out of the love for the Lord? This idea of anti-works is not biblical. We are called to do good works. We are called to be the light of the world. We are called to be the salt of the earth. We are called to be the hands and feet of Jesus. We are called to be the body of Christ.',
+        'We are called to be the church. We are called to be the bride of Christ. We are called to be the ambassadors of Christ. We are called to be the children of God. We are called to be the sons and daughters of the King. We are called to be the disciples of Jesus. We are called to be the followers of Jesus. We are called to be the friends of Jesus. We are called to be the servants of Jesus. We are called to be the worshippers of the Father, Son, and Holy Spirit.',
+        'Kingdom service is not an invitation, but an expectation. By Grace we are saved, but once were saved there is this expectation of works. We are called to put that freedom we have in Christ to work. Those who acknowledge Jesus in front of others will be acknowledged by Jesus in front of the Father. To acknowledge Jesus is to carry him wherever you go. His presence through you should be transformative.',
+        'People make the excuse of burnout as the reason they dont serve. But if you are serving out of the love for the Lord, you will never burnout. The Lord provides the oil that allows you to keep going. You will be filled with the Holy Spirit. You will be filled with the love of God. You will be filled with the love of Jesus.',
+        'Dont worry about the temporary or the opinon of people, worry about Gods opinion of you, and the eternal. There is a reward in the next life that Jesus is telling us to focus on, to aim at!'
+      ],
+    },
     {
       id: "lets-all-be-losers",
       title: "Lets All Be Losers",

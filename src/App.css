@@ -174,3 +174,10 @@ article .title {
   margin-top: 25px;
   margin-bottom: 25px;
 }
+
+.side-navigation {
+  width: 225px;
+  background-color: #f2f2f2;
+  padding: 16px;
+  border-radius: 5px;
+}

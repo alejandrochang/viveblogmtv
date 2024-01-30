@@ -1,9 +1,39 @@
 import LetsAllBeLosers from "../assets/letsallbealllosers.png";
 import CarryYourCross from "../assets/carryyourcross.jpg";
 import WhatDidYouDo from "../assets/whatdidyoudo.jpg";
+import NoLongerLivingForMe from "../assets/nolongerlivingforme.jpg";
 
 export const mockData: BlogListProps = {
+  seriesScripture: ['Then Jesus said to his disciples, “Whoever wants to be my disciple must deny themselves and take up their cross and follow me. For whoever wants to save their life will lose it, but whoever loses their life for me will find it. What good will it be for someone to gain the whole world, yet forfeit their soul? Or what can anyone give in exchange for their soul?"'],
   posts: [
+    {
+      id: "no-longer-living-for-me",
+      title: "No Longer Living (For Me)",
+      content: "What is the cost of discipleship? In the final installment of our Sold Out series, Pastor Ben Lee teaches us how to move from living for yourself to living for Jesus. Prepare to be challenged as we learn that what's considered costly to God cannot be considered cheap to us, in this week's message titled No Longer Living (For Me)",
+      date: "2024-01-28",
+      src: "https://www.youtube.com/embed/Dpu2p2VP5Z4?si=6sDw4pkzwkQFSiCg",
+      coverImg: NoLongerLivingForMe,
+      series: 'Sold Out',
+      scriptures: [
+        'Matthew 16:24-28',
+        'Galatians 2:20',
+        'Matthew 4:19',
+        'Mark 10:21',
+        'Matthew 10:38',
+        'Galatians 1:6-7',
+        'James 1:22',
+        'Mathew 13:44',
+      ],
+      notes: [
+        'What is the cost of following the Lord? Galtians 2:20 says, "I have been crucified with Christ and I no longer live, but Christ lives in me. The life I now live in the body, I live by faith in the Son of God, who loved me and gave himself for me."',
+        'The cost of marriage is chosing to die to yourself for the life of your partner. The benefits of marriage come at the COST of EVERYTHING. Youre no longer living for yourself. Youre living for the other person. The cost of discipleship is similar where everything is given up in exchange for Jesus.',
+        'Just as the disciples when they walked with Jesus and ate with Jesus, they left their former lives for a new life. Following the Rabbi was a testament that they would take new instruction, and their old way of living was over.',
+        'Theres a lot of believers in todays day in age who want all the benefits of being a disciple with none of the cost. However, the true benefits of Christ come when we reflect the life he lived. When we do the will of the Father. The cost of that discipleship is everything.',
+        'Even during the times of Paul with the epistle letters the gospel was being dilluted. There was an idea of justification by the law. The idea that you could be justified by your historical culture. However, this is no excuse to dilute the grace of God.',
+        'Cheap grace looks like grace without the cross. "But be doers of the word, and not hearers only, deceiving yourselves." James 1:22. The cost of discipleship is everything. The cost of discipleship is the cross. The cost of discipleship is the death of yourself. The cost of discipleship is the life of Jesus.',
+        'It cost the Father and the Son everything to provide us salvation. Lets pursue the Lord for he is worthy. Surrender is hard today as the first time, because it cost us something. But the cost of discipleship is worth it! Jesus is more than worthy.'
+      ],
+    },
     {
       id: "what-did-you-do",
       title: "What Did You Do?",
@@ -72,4 +102,5 @@ export interface BlogPostData {
 
 export interface BlogListProps {
   posts: BlogPostData[];
+  seriesScripture: string[];
 }

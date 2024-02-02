@@ -8,7 +8,7 @@ export const mockData: BlogListProps = {
   posts: [
     {
       id: "no-longer-living-for-me",
-      title: "No Longer Living (For Me)",
+      title: "No Longer Living (For Me) ",
       content: "What is the cost of discipleship? In the final installment of our Sold Out series, Pastor Ben Lee teaches us how to move from living for yourself to living for Jesus. Prepare to be challenged as we learn that what's considered costly to God cannot be considered cheap to us, in this week's message titled No Longer Living (For Me)",
       date: "2024-01-28",
       src: "https://www.youtube.com/embed/Dpu2p2VP5Z4?si=6sDw4pkzwkQFSiCg",

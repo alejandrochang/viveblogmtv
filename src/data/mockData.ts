@@ -2,10 +2,40 @@ import LetsAllBeLosers from "../assets/letsallbealllosers.png";
 import CarryYourCross from "../assets/carryyourcross.jpg";
 import WhatDidYouDo from "../assets/whatdidyoudo.jpg";
 import NoLongerLivingForMe from "../assets/nolongerlivingforme.jpg";
+import HelpMeHolySpirit from "../assets/helpmeholyspirit.jpg";
 
 export const mockData: BlogListProps = {
   seriesScripture: ['Then Jesus said to his disciples, “Whoever wants to be my disciple must deny themselves and take up their cross and follow me. For whoever wants to save their life will lose it, but whoever loses their life for me will find it. What good will it be for someone to gain the whole world, yet forfeit their soul? Or what can anyone give in exchange for their soul?" '],
   posts: [
+    {
+      id: "help-me-holy-spirit",
+      title: "Help Me Holy Spirit",
+      content: "Who is the Holy Spirit, and how can He help? Pastor Adam Smallcombe brings a powerful start to our new series. Holy Spirit School, as he unpacks the Holy Spirit's nature in this teaching from Romans 8. Get ready to go back to school in this message titled Help Me Holy Spirit",
+      date: "2024-02-04",
+      src: "https://www.youtube.com/embed/gv6WCCWZC14?si=WfUv4Wb2g1dqk0YS",
+      coverImg: HelpMeHolySpirit,
+      series: 'Holy Spirit School',
+      scriptures: [
+        'Romans 8:22-27',
+        '2 Corinthians 11:28-29',
+        'John 16:7',
+        '1 Peter 8',
+        'Romans 8:1-3',
+        'Acts 2:30',
+      ],
+      notes:[
+        'The Holy Spirit is God who can help. Why are we so hesitant to ask for it from him? Are we confused about the importance and who the Holy Spirit really is?',
+        'The Holy Spirit is the one who decides what gift we receive from the Kingdom. The Holy Spirit can see through and annoints us within our assignment.',
+        'The Spirit himself interedes with our spirit when it needs comfort, help, aid and love.',
+        'The Holy Spirit is the author of scripture. The Holy Spirit is the one who inspired the writers of the Bible',
+        'The Holy Spirit is the breath, the ruler of God. The Holy Spirit is the one who gives life. The Holy Spirit is the one who gives us the power to live the life that Jesus has called us to live.',
+        'The Holy Spirit is the very presence of God. Every book of the bible has a revelation of who the Holy Spirit is and its influence throughout the Word.',
+        'Self help is a myth that is pushed in the world. Were weak and we need help. Luckily we have the greatest Advocate of all the Holy Spirit',
+        'We must focus on things above, focus on satisfying the Spirit, spending time with the Lord and denying our flesh (to strengthen our Spirit).',
+        'The law was good, but we were to weak to satisfy it. We were to weak to be able to complete it. Which is why Jesus came down, to deliver the Holy Spirit to us!',
+        'If you have Jesus in your heart, you have the Holy Spirit. Come into repentance, start with humility and receive the Holy Spirits help, aid and advice in everything you do.'
+      ],
+    },
     {
       id: "no-longer-living-for-me",
       title: "No Longer Living (For Me) ",

@@ -5,6 +5,7 @@ type VerseProps = {
 }
 
 const Verse: React.FC<VerseProps> = ({ scripture }) => {
+  if (scripture.length > 1) return null;
   return (
     <div className='verse'>
       <p className='series-title'>Sold Out</p>

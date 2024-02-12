@@ -23,13 +23,20 @@ const PostData = [
       'Acts 1:8',
     ],
     notes: [
-      'How do we get more of th Holy Spirit? The revelation of the Holy Spirit is knowing that there is a gift in me. An access to power that I can seek and find!',
-      'There a lot of things in our day to day life that we dont know how to do it, or what to do, but the Holy Spirit does know. Lets access our God who always wants whats best fo rus.',
-      'I might have the skill, but I need to rely on the Holy Spirit.',
-      'The Holy Spirit has to be the first option (full of the Spirit) decisions will lead you to God',
-      'The Holy Spirit can be seen in 1. In me: which is the Holy Spirit as the war agains the flesh or 2. On me: which is the Holy Spirit anointing me for a specific purpose/calling.',
+      'How do we get more of the Holy Spirit? This is the question we seek to answer today. The revelation of the Holy Spirit is knowing that there is a gift in me. An access to power that I can seek and find!',
+      'There a lot of things in our day to day life and circumstances that are challenging that we dont know how to tackle. We dont know how to react, and we dont know what the best course of action is. Blessed be our father who has given us access to the Holy Spirit who does know what to do in every circumstance. The ultimate advocate and friend who wants us to suceed in everything we do.',
+      'We might have the skill, but we need to rely on the Holy Spirit. Skill without the Spirit is dead. The fullness of God is found with the Holy Spirit, not in our own effort or strength.',
+      'The Holy Spirit has to be the first option, decisions based on the Holy Spirit guidence will lead you to God and to His presence. This can be seen over and over again throughout the Word of God.',
+      'The Holy Spirit can be seen in two ways: (In me - which is the Holy Spirit as the war agains the flesh) and (On me - which is the Holy Spirit anointing me for a specific purpose/calling).',
+      'When we accepts Jesus Christ as our savior we have the Holy Spirit in us! For it is the Lord who has called us to repentance by his grace and mercy. How can we be Holy without the Holy Spirit?',
       'WE NEED THE HOLY SPIRIT ON US!',
-      '5 reasons we need the Holy Spirit: 1. To fullfill the great commision (he will you fullfill it) 2. Help you live Holy (Walking by the Spirit will strengthen the spiriti and kill the flesh). 3. The Holy Spirit will convicts us. 4. 5. Holy Spirit will lead us to Jesus.'
+      'The Holy Spirit on us is walking in the full power of the Holy Spirit. With this anointing we can do the work of the Lord, the Kingdom and Jesus. Your calling becomes clear with the Holy Spirit on you. Some examples from the bible are: our Lord Jesus, David, Samuel, Ezra and every prophet in the bible.',
+      '5 reasons we need the Holy Spirit:',
+      '1. To fullfill the great commision (he will you fullfill it)',
+      '2. Help you live Holy (Walking by the Spirit will strengthen the spiriti and kill the flesh). The anointing is what breaks the Yoke. Not by your power, but by the power of the Holy Spirit. In this day and age to live purely, Holy, we need to rely on the Holy Spirit.',
+      '3. The Holy Spirit will convicts us. ** "I dream of a church where I see more of the fruits of the Spirit than the gifts of the Spirit" ** If you dont know when was the last time you were convicted by the Holy Spirit? If you dont remember maybe you need to work on your relationship with the Holy Spirit.',
+      '4. The Holy Spirit will give Life to the Church',
+      '5. Holy Spirit will lead us to Jesus.'
     ],
   },
   {

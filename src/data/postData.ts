@@ -9,7 +9,7 @@ const PostData = [
   {
     id: "more-holy-spirt",
     title: "More Holy Spirit",
-    content:"VIVE Frankfurt’s Pastor, Henok Worku, brings us our 2nd installment of “Holy Spirit School” with a powerful message. Preaching from Ephesians 1, Pastor Henok gives us 5 reasons why we need more of the Holy Spirit. Grab your notebooks, and get ready to listen to “More Holy Spirit” on repeat.",
+    content:"VIVE Frankfurts Pastor, Henok Worku, brings us our 2nd installment of “Holy Spirit School” with a powerful message. Preaching from Ephesians 1, Pastor Henok gives us 5 reasons why we need more of the Holy Spirit. Grab your notebooks, and get ready to listen to “More Holy Spirit” on repeat.",
     date: "2024-02-11",
     src: "https://www.youtube.com/embed/s9HRy9Mj40c?si=iDYpwK1v9Ko18KTP",
     coverImg: MoreHolySpirit,

@@ -4,8 +4,24 @@ import WhatDidYouDo from "../assets/whatdidyoudo.jpg";
 import NoLongerLivingForMe from "../assets/nolongerlivingforme.jpg";
 import HelpMeHolySpirit from "../assets/helpmeholyspirit.jpg";
 import MoreHolySpirit from "../assets/moreholyspirit.jpg";
+import MoveHolySpirit from "../assets/moveholyspirit.jpg";
 
 const PostData = [
+    {
+    id: "move-holy-spirt",
+    title: "Move Holy Spirit",
+    content:"How do you know you’re moving in sync with the Holy Spirit? Teaching from Acts 2 Pastor Vance, give us four practical points that you can apply to your life today. It’s time to MOVE with the Holy Spirit, so press play to “Move Holy Spirit” a part of the Holy Spirit School series.",
+    date: "2024-02-18",
+    src: "https://www.youtube.com/embed/lMYTjZ2Fud0?si=VByddIOGsc784Djr",
+    coverImg: MoveHolySpirit,
+    series: "Holy Spirit School",
+    scriptures: [
+      'Acts 2:1-4',
+    ],
+    notes: [
+      '',
+    ],
+  },
   {
     id: "more-holy-spirt",
     title: "More Holy Spirit",

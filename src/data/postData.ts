@@ -16,10 +16,22 @@ const PostData = [
     coverImg: MoveHolySpirit,
     series: "Holy Spirit School",
     scriptures: [
-      'Acts 2:1-4',
+      'Acts 2:1-11',
+      'Genesis 1:1-2',
+      'Ephesians 5:8',
+      'Exodus 35:30',
+      'John 1:14'
     ],
     notes: [
-      '',
+      'The way you enter and engage produce impressions to those around you who you are and what youre about. The person of the Holy Spirit did the same when he entered the room in Pentecost. He came as a rushing wind impacting all those in the room. His impression was everlasting and the announcement of his presence!',
+      'The Holy Spirit has a big personality, came as a wind. The Holy Spirit translated to Ruach (hebrew translation) means wind, breath, mind and spirit. The Holy Spirit is the breath of God. The Holy Spirit is the mind of God. The Holy Spirit is the spirit of God. The Holy Spirit is the wind of God.',
+      'Going back to Genesis we can see how Ruach was hovering over the waters. The Spirit of God hovered and brought life into existence with creation, was there in the beginning of creation.',
+      'By the power of Gods Word, the Holy Spirit was able to move and bring life. The Holy Spirit is a creator. The one who created the Universe, the starry hosts, he knows them by name. He created the seas, the sun and the universe.',
+      'When youre filled with the Holy Spirit you sing, you worship, you CREATE. Youre the light of the world! God created us in his image, he created us to create. To partner with him! The Spirit of God sets on us to empower us to do His works.',
+      'Exodus 35:30. The Holy Spirit set on Bezalel son of Uri and filled him with the Spirit of Gof, with wisdom and understanding, knowledge and all kinds of skills to do the work the Lord had predestined before the foundation of the world to do.',
+      'Our assignment is to point people to God! The Holy Spirit is the one who empowers us to do so. The Holy Spirit is the one who empowers us to do the work of the Lord. He guides us, and supplies us with all the tools to lead us to His calling!',
+      'Wherever Jesus stepped, he brought Kindgom, Heaven to Earth! We are called to create for the Lord, through our interactions, conversations! What are you waiting for? Out of the Upperoom into the outside! We have the Holy Spirit with us, its time to step out in faith in our calling!',
+      'How do we know we are moving in sync with the Holy Spirit? (Acts 1:8) 1. On mission with the Spirit. 2. Are you obeying the Holy Spirit (John 15:14) 3.Vocation submitted to Holy Spirit? 4. Overlay your vocations mission with the kingdom mission.'
     ],
   },
   {
@@ -110,7 +122,7 @@ const PostData = [
       "Just as the disciples when they walked with Jesus and ate with Jesus, they left their former lives for a new life. Following the Rabbi was a testament that they would take new instruction, and their old way of living was over.",
       "Theres a lot of believers in todays day in age who want all the benefits of being a disciple with none of the cost. However, the true benefits of Christ come when we reflect the life he lived. When we do the will of the Father. The cost of that discipleship is everything.",
       "Even during the times of Paul with the epistle letters the gospel was being dilluted. There was an idea of justification by the law. The idea that you could be justified by your historical culture. However, this is no excuse to dilute the grace of God.",
-      'Cheap grace looks like grace without the cross. "But be doers of the word, and not hearers only, deceiving yourselves." James 1:22. The cost of discipleship is everything. The cost of discipleship is the cross. The cost of discipleship is the death of yourself. The cost of discipleship is the life of Jesus.',
+      'Cheap grace looks like«grace without the cross. "But be doers of the word, and not hearers only, deceiving yourselves." James 1:22. The cost of discipleship is everything. The cost of discipleship is the cross. The cost of discipleship is the death of yourself. The cost of discipleship is the life of Jesus.',
       "It cost the Father and the Son everything to provide us salvation. Lets pursue the Lord for he is worthy. Surrender is hard today as the first time, because it cost us something. But the cost of discipleship is worth it! Jesus is more than worthy.",
     ],
   },

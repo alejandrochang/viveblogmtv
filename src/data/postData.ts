@@ -5,8 +5,40 @@ import NoLongerLivingForMe from "../assets/nolongerlivingforme.jpg";
 import HelpMeHolySpirit from "../assets/helpmeholyspirit.jpg";
 import MoreHolySpirit from "../assets/moreholyspirit.jpg";
 import MoveHolySpirit from "../assets/moveholyspirit.jpg";
+import ProvisionHolySpirit from "../assets/provisionholyspirit.jpg";
 
 const PostData = [
+    {
+    id: "provision-of-the-holy-spirit",
+    title: "Provision of the Holy Spirit",
+    content:"Join us in the final installment of Holy Spirit School with Pastor Adam Smallcombe, where we delve deep into the Holy Spirit's provisions. Based on Luke 24, Pastor Adam teaches us that as believers, we can unlock the power of the Holy Spirit. Tune in now, to PROvision of the HOLY SPIRIT.",
+    date: "2024-02-26",
+    src: "https://www.youtube.com/embed/L3ynZBaWHmk?si=DLodi1T58nQqjGHZ",
+    coverImg: ProvisionHolySpirit,
+    series: "Holy Spirit School",
+    scriptures: [
+      'Luke 24:36-49',
+      'Genesis 1:2',
+      '1 Samuel 16:13',
+      'Acts 1:8',
+      'Acts 2:3',
+      '2 Timothy 1:7',
+      '1 Corinthians 15:53',
+      'Galatians 3:13-14',
+      'Colossians 3:9-10',
+      'Romans 13:14'
+    ],
+    notes: [
+      'With the Holy Spirit youre clother with power! Imagine what the church could looke like if we understood the power of the Holy Spirit. A church that would be walking boldly and securely in the authority given to them by the Lord',
+      'YOU HAVE POWER TO PERFORM MIRACLES. Jesus himself said "Greater things you will do in my name". The Holy Spirit is the one who empowers us to do the work of the Lord. He guides us, and supplies us with all the tools to lead us to His calling!',
+      'The power of the Holy Spirit is evident throughout the Word. We can see it from Genesis 1:2 as the Spirit is what hovered over the waters and brought life into existence through power.',
+      'Throughout the Old Testament we see the power of the Spirit througout, where the Spirit partnered with the select to achieve things they wouldnt have been able to accomplish on their own. In Samuel 16:13 we see this as the Spirit of the Lord comes powerfully among David, Samson also references every time he uses his strength that Spirit of the Lord was upon him.',
+      'Acts 1:8 tells us that you will receive power through the Holy Spirit! Doint it in you own strength will not get you very far, but with the power of the Holy Spirit you can do anything!',
+      'The resurrection of Jesus was through the power of the Holy Spirit, thinking about that logically that is the resurrection of the living God!',
+      'The Spirit of God is the power of God, where the Holy Spirit is present, so is Gods power. You cannot purchase this power, but you can put it on. Its through Christ Jesus that we are able to receive this gift!',
+      'PUT ON THE Spirit of the Lord. An active moment and decision to put on the Holy Spirit. We have access to it, but we need to act. Am I walking in the Spirit to be able to have it on me. We want the power of the Holy Spirit not just the potential of the Holy Spirit.',
+    ],
+  },
     {
     id: "move-holy-spirt",
     title: "Move Holy Spirit",

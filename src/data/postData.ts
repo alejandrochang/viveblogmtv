@@ -6,8 +6,38 @@ import HelpMeHolySpirit from "../assets/helpmeholyspirit.jpg";
 import MoreHolySpirit from "../assets/moreholyspirit.jpg";
 import MoveHolySpirit from "../assets/moveholyspirit.jpg";
 import ProvisionHolySpirit from "../assets/provisionholyspirit.jpg";
+import JustJesus from "../assets/justjesus.jpg";
 
 const PostData = [
+    {
+    id: "just-jesus",
+    title: "Just Jesus",
+    content:"Pastor Adam Smallcombe brings a fresh start to our March series, Christ Alone, from our San Jose campus. How can Jesus be the only way to get right with God? Find out as you open your Bible to Colossians 1 and press play on this week's message Just Jesus",
+    date: "2024-03-03",
+    src: "https://www.youtube.com/embed/y7UN3MY-LIs?si=lq0OcGkrBCV7pTek",
+    coverImg: JustJesus,
+    series: "Christ Alone",
+    scriptures: [
+      '1 Colossians 1:15-23',
+      'Matthew 7:21-23',
+      'Hebrews 1:3',
+      'John 14:9-10',
+      'Matthew 7:13-14',
+      '1 Timothy 2:5',
+      'Romans 5:17',
+      '1 Corinthians 1:30',
+      '1 Phillipians 3:7',
+    ],
+    notes: [
+      'Jesus is the image of the invisible God. The firstborn over all creation. For in him all things were created: things in heaven and on earth, visible and invisible, whether thrones or powers or rulers or authorities; all things have been created through him and for him. He is before all things, and in him all things hold together. And he is the head of the body, the church; he is the beginning and the firstborn from among the dead, so that in everything he might have the supremacy. For God was pleased to have all his fullness dwell in him, and through him to reconcile to himself all things, whether things on earth or things in heaven, by making peace through his blood, shed on the cross.',
+      "Jesus is Enough. You don't need Jesus and something else. Do not lose your focus on Jesus, for he is enough.",
+      'Jesus said "I am the way, the truth and the life. No one comes to the Father except through me." He said I am more than enough. God has nothing else to give. He gave us Jesus.',
+      'It is because of him that we are in Christ Jesus, to be in Christ is that we get all of Jesus and everything that comes with Jesus. We havent even unlocked all the blessings that comes with JESUS!',
+      'I have all of Jesus, we get all that comes with Jesus. The question is have we given all of ourselves. Or do we have divided attention, and divided worship? Where do you give your attention? ',
+      'For some of you Sports can be your idol, but our praise is not for anything in this world, but for the King. Does Jesus have all of you? .',
+      'Its a two hand hold type of faith. All in!'
+    ],
+  },
     {
     id: "provision-of-the-holy-spirit",
     title: "Provision of the Holy Spirit",

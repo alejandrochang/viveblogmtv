@@ -8,12 +8,35 @@ import MoveHolySpirit from "../assets/moveholyspirit.jpg";
 import ProvisionHolySpirit from "../assets/provisionholyspirit.jpg";
 import JustJesus from "../assets/justjesus.jpg";
 import WhoIsThis from "../assets/whoisthis.jpg";
+import WorthIt from "../assets/worthit.jpg";
 
 const PostData = [
-    {
+  {
+    id: "worth-it",
+    title: "Worth It",
+    content:
+      "Are we worth the trade for Jesus' life? This Resurrection Sunday, Pastor Adam Smallcombe brings a compelling message titled 'Worth It', centered around Philippians 3 and the salvation we can receive through faith. Grab your notepad and prepare to discover the truth about Easter Sunday.",
+    date: "2024-03-31",
+    src: "https://www.youtube.com/embed/ADPaOBzaZLo?si=VgepQNbXlr1_2Rwu",
+    coverImg: WorthIt,
+    series: "Easter Special",
+    scriptures: ["Phillipians 3:1-11", "John 15:13", "John 15:16"],
+    notes: [
+      "In Phillipians 3 we see Paul's testimony of his life before and after, we see that everything he had before he counted as loss for the sake of Christ. He counted it all as garbage. He counted it all as worthless compared to the surpassing greatness of knowing Christ Jesus his Lord.",
+      "We see by the accounts of Paul that he was very familiar with Old Covenant, he was a Pharisee of Pharisees. He was a Hebrew of Hebrews and was zealous for the law. He was blameless in the eyes of the law, but he realized that the New Covenant had come and that it was not only better but the only way.",
+      "The Lord uses the most unlikely people to do the most unlikely things. He used Paul who was a persecutor of the church to be the greatest missionary of the church. Even with the persecution of the church, the Lord used it for the good of the church.",
+      "Salvation is intricate yet such a simple concept. Its the free gift of God that is received through faith and belief. Sometimes we have difficulty of accepting salvation, asking whether we are worth it from our POV.",
+      "Looking at the disciples as an example we see that they were not worth the trade for Jesus' life. They were not worth the trade for Jesus' life, but Jesus thought they were. Jesus thought they were worth the trade for his life. Our Lord Christ Jesus is the one who made the final declaration that we being sinners and ones who betrayed him are worth it in His eyes.",
+      "When you want something so deeply the question that should come to you is 'what are you willing to do for it?'. Our Lord Christ Jesus knowing the pain, suffering and shame of the cross wanted to not be separated from us so badly that he gave his life for us. He gave his life for us so that we could be with him.",
+      "The difference between the Old Covenant was on the basis of 'you can earn it', the new covenant is based on 'you can receive it'. The Old Covenant was based on the law, the New Covenant is based on grace. The Old Covenant was based on works, the New Covenant is based on faith.",
+      "Jesus gave everything to buy you back from the penalty of sin. Now in grace, we are able to receive his love and presence like never before. We must be able to see how our Lord sees us to be able to live to the calling he has placed in our life and to live fully in his purpose for us.",
+    ],
+  },
+  {
     id: "who-is-this",
     title: "Who Is This?",
-    content: "This Palm Sunday, Pastor Keira Smallcombe brings us a message titled “Who is this?” The answer is Jesus, the ultimate finisher. Preaching from Matthew 21, Pastor Keira teaches us that though in our lives we want the praises for commitment, Jesus was focused more on fulfillment. His focus was on our freedom and being the savior of the world. Tune into “Who is this?” and discover how you can step into a greater level of fullness this week.",
+    content:
+      "This Palm Sunday, Pastor Keira Smallcombe brings us a message titled “Who is this?” The answer is Jesus, the ultimate finisher. Preaching from Matthew 21, Pastor Keira teaches us that though in our lives we want the praises for commitment, Jesus was focused more on fulfillment. His focus was on our freedom and being the savior of the world. Tune into “Who is this?” and discover how you can step into a greater level of fullness this week.",
     date: "2024-03-24",
     src: "https://www.youtube.com/embed/P0dl-DwZsSQ?si=667qgQnUp3wAYawe",
     coverImg: WhoIsThis,
@@ -26,7 +49,7 @@ const PostData = [
       "Zachariah 9:9",
       "Isaih 50:6-7",
       "Psalms 23:3-18",
-      "Phillipians 3:12"
+      "Phillipians 3:12",
     ],
     notes: [
       "In Matthew 21 we see htat Jesus comes to Jerusalem as King. Jesus has been hiding his power and doing miracles in secret for the past 3 years. But his entrance to Jerusalem is grand a declaration of who he is. ",
@@ -34,7 +57,7 @@ const PostData = [
       "Jesus through his entrancne demonstrated he was a finisher. His eyes and gaze were set on the prize and the flory before him. He was focused on the cross and the resurrection. He was focused on the freedom of the people and the salvation of the world.",
       "Now in days people want praise for the half-commitment, but reward and honor only comes from reaching the finish line, from the fulfillment of the calling. Jesus was focused on the fulfillment of the calling, not the praise of the people.",
       "There was a huge distinction beteween the commencement and the completion of the calling. The commencement was supported with chear, love and people. The completion was longely, painful and full of suffering. The completion was the cross.",
-      "Fullfillment is about FOCUS. Theres nothign fun about sacrifice and pain, but thats why we set our eyes on Jesus, on things above and not on things below. We set our eyes on the prize, on the finish line, on the freedom that has already been paid for."
+      "Fullfillment is about FOCUS. Theres nothign fun about sacrifice and pain, but thats why we set our eyes on Jesus, on things above and not on things below. We set our eyes on the prize, on the finish line, on the freedom that has already been paid for.",
     ],
   },
   {

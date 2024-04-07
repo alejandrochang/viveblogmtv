@@ -9,8 +9,31 @@ import ProvisionHolySpirit from "../assets/provisionholyspirit.jpg";
 import JustJesus from "../assets/justjesus.jpg";
 import WhoIsThis from "../assets/whoisthis.jpg";
 import WorthIt from "../assets/worthit.jpg";
+import ReverenceRevealing from "../assets/reverencerevealing.jpg";
 
 const PostData = [
+    {
+    id: "your-reverence-is-revealing",
+    title: "Your Reverence is Revealing",
+    content: "Your reverence in honoring God reveals your convictions. That’s what Pastor Adam Smallcombe teaches in the initial sermon of “The Life I Now Live” series. From Hebrews 12, Pastor Adam gives us practical ways to be unshakable and steadfast in our belief. Lean in and press play to “Your Reverence is Revealing.”",
+    date: "2024-04-07",
+    src: "https://www.youtube.com/embed/CnWKIUA811s?si=9uAGFo3XK5s54wvI",
+    coverImg: ReverenceRevealing,
+    series: "The Life I Now Live",
+    scriptures: ["Hebrews 12:18-29", "Galatians 2:20-21", "Romans 12:1", "Exodus 19:16", "Exodus 20:19"],
+    notes: [
+      "In this new series 'The Life I Now Live' Pastor Adam dives into the book of Hebrews. In Hebrews 12 we see the author of Hebrews is writing to the Jewish Christians who are facing persecution and are considering going back to the old ways. The author is encouraging them to keep the faith and to keep their eyes on Jesus.",
+      "In the Old Testament we see the Israelites were terrified of the presence of God. They were so terrified that they asked Moses to speak to God on their behalf. They were so terrified that they asked Moses to be the mediator between them and God. They were so terrified that they asked Moses to be the one who would hear from God and then tell them what God said.",
+      "In the New Testament with Mount of Zion we see that the presence of God is not something to be feared, but something to be revered. The presence of God is not something to be terrified of, but something to be honored. The presence of God is not something to be scared of, but something to be respected.",
+      "The scripture alludes to us returning to reverence and awe of the Lord. When we think of our new life in christ do we think of a big moment and little change or a little moment and a big change?",
+      "The writer of Hebrew compares 2 moutains: Mt. Zion and Mt. Sinai. Mt. Sinai was a place of fear and trembling, a place of darkness and gloom. Mt. Zion is a place of joy and celebration, a place of light and life. The writer of Hebrews is saying that we have come to Mt. Zion, the city of the living God, the heavenly Jerusalem.",
+      "Mt. Sinai the ancient mountain where the Law was created. The reverence camd out of fear of breaking the covenant. For we know that breaking the law resulted in death. The reverence was out of fear of the consequences of breaking the law.",
+      "Mt. Zion the mountain where the new covenant was created by the blood of Jesus Christ our Lord. The reverence comes out of love for the one who saved us. Mt. Zion is about convitions not by fear.",
+      "You can love God and not fear him. Loving God is what he does for us. Fearing is what you do for him. I do not treat the grace of God as meaningless is a true reverence for the Lord.",
+      "Reverence is knowing that the grace of God is to be honored to the point of my action to be driven by convitions. This means a genuine gratefulness from our hear! Not to nullify this grace with casual convictions, but with boldened convictions.",
+      "How strong our your convictions? Do they withstand the shaking that is upon us? The Word says how things will be removed, unshakable things will come and remain, but our foundation should be on the solid rock, on the Mt. of Zion. Lets strive to live a REVERENT life and evident life of the reverence for the Lord.",
+    ],
+  },
   {
     id: "worth-it",
     title: "Worth It",

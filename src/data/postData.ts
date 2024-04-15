@@ -10,17 +10,53 @@ import JustJesus from "../assets/justjesus.jpg";
 import WhoIsThis from "../assets/whoisthis.jpg";
 import WorthIt from "../assets/worthit.jpg";
 import ReverenceRevealing from "../assets/reverencerevealing.jpg";
+import GetAGrip from "../assets/getagrip.jpg";
 
 const PostData = [
-    {
+  {
+    id: "get-a-grip",
+    title: "Get A Grip",
+    content: "Pastor Adam delivers a powerful message, Get a Grip. Teaching from Acts 5, Pastor Adam skillfully navigates the complexities of fear in the Lord. At the same time, he shows us that grace gives us a fresh opportunity to get a grip! Tune into the second installment of the series, “The Life I Now Live”.",
+    date: "2024-04-14",
+    src: "https://www.youtube.com/embed/8DIveZcmcnA?si=jxth-YWiEunilNYm",
+    coverImg: GetAGrip,
+    series: "The Life I Now Live",
+    scriptures: [
+      "Acts 4:29",
+      "Acts 5:1-12",
+      "Acts 4:37",
+      "Psalms 34:4-11",
+      "Hebrews 12:5-11",
+      "Hebrews 12:12"
+    ],
+    notes: [
+      "The Church began with a bang, with a shaking. We can see this in the beginning of Acts as the Church begins to grow, 3000 people are saved. Miracles begin to happen with the Church. The Holy Spirit comes in full power as a bang that shakes the room (Acts 4:30) as they prayed and were filled with the Holy Spirit.",
+      "God is into the shaking, last week we saw in Hebrews how everything will be shaken and everything not on foundation will not remainn. God likes to shake things up, from our surroundings to the individual, the Lord will shake us out of complaceny.",
+      "As the church began to grow we saw radical generosity where most people were responding right, however there was a few inauthentic actors as well. Annanias and Sapphira did not respond correctly to the Lord. They liked the benfits of the church, but they were not authentic in their giving.",
+      "Through this scripture we see that there was a lack of reverence for the Lord from them. They were not reverent to the Holy Spirit which led to death. There was no requirement for them to give, it was from a place of inauthenticity that they pursued to 'give' to the church. Based on the scripture theres an implication that they as a couple came into agreement to not give all the money in the sale of the land. However, they chose to lie instead of give what they wanted to give. They wanted the praise of giving all they have, when they hadn't.",
+      "We see this issue still happens today where people like to trust God in part (holding onto him with one hand, while holding on to our own desires with the other). We need to be able to trust God with both hands, to be able to give all we have to the Lord.",
+      "When Annanias and Sapphira saw how much they were going to give, they chose to keep back what they already planned on giving. The oppositie of fear is familiarity, which shows they had the wrong fear. This is what creates the difference between devotion to the Lord vs. religion.",
+      "Something we can see is that a lack of fear of God will lead to fear of man. The wrong fear/reverence will result in death. The right fear/reverence will result in life. The only way to get rid of the fear is with fear of the Lord!",
+      "When thinking about discipline and disciple we begin that both interesect so closely. If I am to become a disciple I have to be formed in discipline, for the Lord loves to discipline his children! God is not nice, but he is kind, he is the embodimient of the fruit of the Spirit. The Lord disciplines the ones he loves.",
+      "By the Glory of God grace allows us to get a grip!!! Grace is our gateway to see and understand the reverence of the Lord. Grace liviing is a reminder of the grip that we want to hold onto. Holding on to Jesus with all we have in full reverence to him."
+    ],
+  },
+  {
     id: "your-reverence-is-revealing",
     title: "Your Reverence is Revealing",
-    content: "Your reverence in honoring God reveals your convictions. That’s what Pastor Adam Smallcombe teaches in the initial sermon of “The Life I Now Live” series. From Hebrews 12, Pastor Adam gives us practical ways to be unshakable and steadfast in our belief. Lean in and press play to “Your Reverence is Revealing.”",
+    content:
+      "Your reverence in honoring God reveals your convictions. That’s what Pastor Adam Smallcombe teaches in the initial sermon of “The Life I Now Live” series. From Hebrews 12, Pastor Adam gives us practical ways to be unshakable and steadfast in our belief. Lean in and press play to “Your Reverence is Revealing.”",
     date: "2024-04-07",
     src: "https://www.youtube.com/embed/CnWKIUA811s?si=9uAGFo3XK5s54wvI",
     coverImg: ReverenceRevealing,
     series: "The Life I Now Live",
-    scriptures: ["Hebrews 12:18-29", "Galatians 2:20-21", "Romans 12:1", "Exodus 19:16", "Exodus 20:19"],
+    scriptures: [
+      "Hebrews 12:18-29",
+      "Galatians 2:20-21",
+      "Romans 12:1",
+      "Exodus 19:16",
+      "Exodus 20:19",
+    ],
     notes: [
       "In this new series 'The Life I Now Live' Pastor Adam dives into the book of Hebrews. In Hebrews 12 we see the author of Hebrews is writing to the Jewish Christians who are facing persecution and are considering going back to the old ways. The author is encouraging them to keep the faith and to keep their eyes on Jesus.",
       "In the Old Testament we see the Israelites were terrified of the presence of God. They were so terrified that they asked Moses to speak to God on their behalf. They were so terrified that they asked Moses to be the mediator between them and God. They were so terrified that they asked Moses to be the one who would hear from God and then tell them what God said.",

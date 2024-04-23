@@ -11,8 +11,34 @@ import WhoIsThis from "../assets/whoisthis.jpg";
 import WorthIt from "../assets/worthit.jpg";
 import ReverenceRevealing from "../assets/reverencerevealing.jpg";
 import GetAGrip from "../assets/getagrip.jpg";
+import JesusAintYourHomie from "../assets/jesusaintyourhomie.jpg";
 
 const PostData = [
+  {
+    id: "jesus-aint-your-homie",
+    title: "Jesus Ain't Your Homie",
+    content: "Has your relationship with Jesus become familiar and common? Join Pastor Keira as she delivers a compelling message on prioritizing Jesus based on Matthew 13. Learn again how to make seeking God your first priority, receiving from Him first, and giving back to Him first. This impactful sermon ‘Jesus Ain't Your Homie’ will challenge you to deepen your intimate relationship with Jesus and recognize His holiness. Tune in for a powerful reminder to revere Jesus in the series “The Life I Now Live”.",
+    date: "2024-04-21",
+    src: "https://www.youtube.com/embed/yvhOQFe57n4?si=w7hJ2tqq9bawz3LT",
+    coverImg: JesusAintYourHomie,
+    series: "The Life I Now Live",
+    scriptures: [
+      "Matthew 13:53-58",
+    ],
+    notes: [
+      "In this impactful series Pastor Kiera talks about the importance of revering Jesus through understanding that Jesus is much more than just a friend. In Matthew 13 we see that Jesus was not able to do many miracles in his hometown because of their lack of faith. The people of his hometown were familiar with Jesus, they knew him as the son of Joseph the carpenter, they knew his siblings and their preconceived thoughts of who he was. They were familiar with his family and his background negating the power Chrit had.",
+      "This same concept happens to a lot of us who continue the wlak of faith. Questions we should ask ourselves are: Have I drifted? Is there too much familiarity in my relationship with Jesus? Do I treat Jesus as my homie? Do I treat Jesus as my friend, but not revere him? Do I treat Jesus as my buddy, but yet forget to give him my heart? Do I treat Jesus as my mate? Do I treat Jesus as my bro, but do I not love Jesus as my Lord?",
+      "Have I drifted to continue doing the work the Lord has called me to do, but without any heart? Without any correct heart posture. Have my acts become religious over relationship. Is my relationship out of pure benefit or out of true heart posture towards my King?",
+      "Familiarity breeds contempt. We are exposed to certain people, certain opportunnities and blessings. We become familiar with them and we begin to take them for granted. We begin to lose the reverence for them, which in turn leads to a lack of honor, reverence and awe of the Lord.",
+      "This happens due to this warning, that if you just have Jesus as your friend, you're going to nullify Jesus in your life. You will make him invalid, ineffective. Because Jesus is more than just your friend, he is Holy, he is the Lord.",
+      "Some of us are struggling to see the power and the miracles of God, because the Lord will guide us to the place where we will see the power of God through the reverence, through making him Lords of our lives. We cannot take the benefits of the sanctification without honoring the one who we are sanctified through.",
+      "Coming back to the Fear of the Lord can be done by these 3 actionable tips:",
+      "1. Go to God first: Who you love and what you love will show you where you are going to first. The Lord wants you to spend time with him, to seek him first. Seek the Lord first and he will guide you to the right path.",
+      "2. Get from God first: What you love first has the power to define you. If we want our identity in Christ, we need to receive from God first. To receive our love, validation and identity from the Lord.",
+      "3. Give to God first: You give your first to what you love. The Lord is telling us to 'place him first' again!",
+      "This is the way to make Jesus the Lord of your life, to bring back the reverence to the Lord in your life. The King loves to be first. By placing our values in the truth and the one who is the truth, we will be able to see the power of God in our lives.",
+    ],
+  },
   {
     id: "get-a-grip",
     title: "Get A Grip",

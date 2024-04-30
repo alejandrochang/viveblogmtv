@@ -12,8 +12,32 @@ import WorthIt from "../assets/worthit.jpg";
 import ReverenceRevealing from "../assets/reverencerevealing.jpg";
 import GetAGrip from "../assets/getagrip.jpg";
 import JesusAintYourHomie from "../assets/jesusaintyourhomie.jpg";
+import NeverLetItRest from "../assets/neverletitrest.jpg";
 
 const PostData = [
+  {
+    id: "never-let-it-rest",
+    title: "Never Let It Rest",
+    content: "Are you building your own empire, or are you dedicated to building God's kingdom? Tune into Pastor Adam convicting message 'Never Let It Rest' as he delves into Acts 12. Discover the truth that we are called to never let glory rest in this life, understanding that while we handle the glory, we mustn't hold onto it. Press play again and again to the latest installment of “The Life I Now Live",
+    date: "2024-04-28",
+    src: "https://www.youtube.com/embed/jMPP8RH3-MQ?si=RSVpmb6GZY8D5y2O",
+    coverImg: NeverLetItRest,
+    series: "Never Let It Rest",
+    scriptures: [
+      "Acts 12:20-24",
+    ],
+    notes: [
+      "In this series Pastor Adam goes deep into the book of Acts. In Acts 12 we see the story of Herod who was struck down by the Lord by accepting the peoples worship instead of directing it to the Lord.",
+      "The Word says he was instantly struck down by angel of the Lord! His death began as soon as he decided to hoard onto the glory. It is clear as day that we were made to worship the King, and not hoard onto the glory.",
+      "This happened during the time that the church was being strengthened, where people were being put into spiritual training, the church was growing, the church was being strengthened. Momentum was happening!",
+      "King Herod knew of what was happening in the church, he knew of the miracles and the wonders that were happening. He knew of the power of the Lord, but he chose to take the glory for himself. King Herod Agripa was the King of the Jews, who had relationship with Rome. This is why he was placed as King of Judea. His primary function and job was to keep peace between both the Jewish people and the Romans",
+      "A lack of reverence for God was why King Agripa was persecuting the church. We can see the beginning of Acts 12 where Herod put James to the sword and arrested Peter which is mentioned that it `pleased the Jews`. He was more in fear of pleasing men than pleasing God.",
+      "The inhabitants of Sidon and Tyre came to offer King Agripa praise (which was a common practice of the time for Kings and leaders). They were trying to make peace with the King, but the King did not give the glory to the Lord. He accepted the praise and the glory for himself.",
+      "From the information Luke gives, one might expect that Agrippa was suddenly overpowered by worms that consumed him in a matter of seconds, and one can envision his death. But Luke does not say that Herod died immediately, only that he was “struck down” immediately. According to Josephus (one of the best historians for the Jewish people during this time), Herod Agrippa I was immediately incapacitated by a severe pain his stomach; the pain lingered for five days before he died. The book of Acts tells us that the cause of death was worms (parasites, probably) directly from the hand of God.",
+      "This gives us such a clear illustration how the glory of God cannot be contained by humans. How when we don't give the glory to God, it is the beginning of our demise. Humans were not meant to hold on to glory but to direct it towards the Lord, for it is he who allows us to receive honor. We were made to worship, made to give the Lord honor and that is what we must do to live a life of fullfillment.",
+      "To summarize, are you building the Lords Kingdom? or yours? I challenge you to reflect on this notion, reflect on the glory you have been given and where you are directing it. Are you directing it to the Lord or are you holding on to it for yourself? One leads to everlasting life, while the other begins the path to decay.",
+    ],
+  },
   {
     id: "jesus-aint-your-homie",
     title: "Jesus Ain't Your Homie",

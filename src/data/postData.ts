@@ -13,8 +13,38 @@ import ReverenceRevealing from "../assets/reverencerevealing.jpg";
 import GetAGrip from "../assets/getagrip.jpg";
 import JesusAintYourHomie from "../assets/jesusaintyourhomie.jpg";
 import NeverLetItRest from "../assets/neverletitrest.jpg";
+import HumbleBrag from "../assets/humblebrag.jpg";
 
 const PostData = [
+  {
+    id: "humble-brag",
+    title: "Humble Brag",
+    content: "Humble Brag, by Pastor Ben Lee, is part of the series The Life I Now Live. Pastor Ben unpacks 1 Peter to teach the concept of humility and how it contrasts with the world's definition. In this message, Pastor Ben not only dissects the meaning of humility but also provides practical tools for cultivating humility in our daily lives. Don’t miss this transformative sermon that challenges you to think of yourself as God thinks of you.",
+    date: "2024-05/05",
+    src: "https://www.youtube.com/embed/387ej-Q13J8?si=dSUVe6UW7IWKUP9Y",
+    coverImg: HumbleBrag,
+    series: "The Life I Now Live",
+    scriptures: [
+      "1 Peter 5:5-11",
+      "John 13:4-5",
+      "Proverbs 3:34",
+      "Matthew 23:12",
+      "Mattew 6:25",
+      "Mattew 6:33-34",
+    ],
+    notes: [
+      "In this series Pastor Ben unpacks the book of 1 Peter to teach the concept of humility and how it contrasts with the worlds definition. In this message Pastor Ben not only dissects the meaning of humility but also provides practical tools for cultivating humility in our daily lives.",
+      "In our humanity, we by our sinful nature will try to take control into our own hands. In our eyes and perception it might seem like the right thing to do, but in the eyes of the Lord it is not. The Lord calls us to be humble, to be submissive to the Lord. The act of trying control is prideful by nature and is a sign of not being fully reverent to the Lord.",
+      "When we don't ask God what his thoughts are to any situation, we take control and end up doing things that are the opposite of being humble or acting in humility.",
+      "The big question then is what is humility? Humility is thinking of yourself the way God thinks about you. Recognize the gift that the Lord has given you being made in his image and walking in the identity the Lord has given us. Its not thinking lower of yourself, but knowing who you are, the gifts that are used for building the Kingdom and not yourself.",
+      "The first practical tool that Peter gives us is to be subject ot the elders. The Lord created everything with order and purpose. The world has really pushed for people to be skeptical of authority. The Lord calls us to trust him and the people he has placed for his calling and works.",
+      "The clearest sign of not walking hin humility is when we try to take control of a situation. This will typically leads to anxiousness as we are not meant to carry that burden. Autonomy is the crisis of authority. It puts the individual into authority, control which inherently makes you 'God'.",
+      "There are 2 world views: either God exists and he makes the rules or God doesn't exists, which means I get to make the rules putting my self in the position of judge.",
+      "Peter gives us the structure to humility, humbling ourselves under authority, under leadership and trusting the Lord fully! 1 Peter goes on to say that being clothed, binding yourself in humility. To do this we must let off all the weight we try to put on ourselves. Casting our anxious and heaviness to the Lord.",
+      "A perfect example of humility is what we see in John 13:4-5 where Jesus washes the disciples feet. Jesus was the King of Kings, the Lord of Lords, the one who created the universe, yet he humbled himself to wash the feet of his disciples. He was showing us that humility is not thinking less of yourself, but thinking of yourself less for a greater kingdom purpose.",
+      "Because of this we have to go back to humility! Humility is what gives us access to exaltation. The Lord declares it as a promise. It is for us to take and accept. By declaring that God is the truth and solely the interpretor of the truth, we allow for him to rule and govern our lives, clothing us in humility and providing us a framework to live in the truth under the leadership, comforter, teacher and the lordship of Jesus Christ.",
+    ],
+  },
   {
     id: "never-let-it-rest",
     title: "Never Let It Rest",
@@ -22,7 +52,7 @@ const PostData = [
     date: "2024-04-28",
     src: "https://www.youtube.com/embed/jMPP8RH3-MQ?si=RSVpmb6GZY8D5y2O",
     coverImg: NeverLetItRest,
-    series: "Never Let It Rest",
+    series: "The Life I Now Live",
     scriptures: [
       "Acts 12:20-24",
     ],

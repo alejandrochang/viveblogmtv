@@ -14,8 +14,38 @@ import GetAGrip from "../assets/getagrip.jpg";
 import JesusAintYourHomie from "../assets/jesusaintyourhomie.jpg";
 import NeverLetItRest from "../assets/neverletitrest.jpg";
 import HumbleBrag from "../assets/humblebrag.jpg";
+import WisdomIsFoundInFear from "../assets/wisdomisfoundinfear.jpg";
 
 const PostData = [
+  {
+    id: "wisdom-is-found-in-fear",
+    title: "Wisdom Is Found In Fear",
+    content: "Join Pastor Keira Smallcombe in this Mother’s Day message. Preaching from Proverbs 9 Pastor Keira teaches us to take hold of wisdom. As Christians there is a calling upon our lives, and wisdom is on offer to us. Listen to “Wisdom is Found in Fear” again and again.",
+    date: "2024-05-13",
+    src: "https://www.youtube.com/embed/L1bkWa59JfE?si=WEsooqhaG89Et4Yt",
+    coverImg: WisdomIsFoundInFear,
+    series: "The Life I Now Live",
+    scriptures: [
+      "Proverbs 9:1-11",
+      "Proverbs 9:10",
+      "1 Kings 2:19",
+      "Proverbs 1:8",
+      "1 Kings 2:1-3",
+      "1 Kings 3:9",
+      "Proverbs 9:12",
+      "Proverbs 9:4",
+    ],
+    notes: [
+      "Proverbs 9: - Invitations of wisdom and folly. `The fear of the Lord is the beginning of wisdom, and knowledge of the Holy One is understanding.`",
+      "We see that in Proverbs 9 it talks about wisdom and foolishness and how the fear of the Lord is the beginning of all wisdom. Just like being good is taught by parents instructing their children, wisdom is grown by revering the Lord.",
+      "An incredible example of how the Fear of the Lord is demonstrated is in the story of King Solomon. A man born of King David and Bathsheba, Solomon was given the opportunity to ask for anything from the Lord. Solomon asked for wisdom, for the ability to discern between good and evil. The Lord was pleased with Solomon's request and granted him wisdom.",
+      "A clear sign of wisdom we see from King Solomon is his respect and love for his mother, who instructed him in the ways of the Lord. A clear example of Proverbs 1:8 `Listen, my son, to your father’s instruction and do not forsake your mother’s teaching.`",
+      "In 1 Kings 2:1-3 we see King David instructing Solomon to walk in the ways of the Lord, to keep his decrees and commands. This is the foundation of wisdom, to walk in the ways of the Lord.",
+      "In Proverbs we see the benefit of this wisdom on King Solomon. We see that wisdom has rewarded him well, with riches, favor and joy. If you're a mocker of wisdom however you will suffer.",
+      "Wisdom invites us to leave the simple behind, to learn what God has us do and focus on. To have the Lords perspective and opinion on how he would do things. Wisdom is timeless and invites all to come and learn from the Lord.",
+      "So let wisdom challenge shape you, for the fear of the Lord leads to freedom. It is what sets you free to live in this life. It is what sets you free to live in the truth. It is what sets you free to live in the light. It is what sets you free to live in the love of the Lord.",
+    ],
+  },
   {
     id: "humble-brag",
     title: "Humble Brag",

@@ -15,8 +15,40 @@ import JesusAintYourHomie from "../assets/jesusaintyourhomie.jpg";
 import NeverLetItRest from "../assets/neverletitrest.jpg";
 import HumbleBrag from "../assets/humblebrag.jpg";
 import WisdomIsFoundInFear from "../assets/wisdomisfoundinfear.jpg";
+import LiveFreeForGodsSake from "../assets/livefreeforgodssake.jpg";
 
 const PostData = [
+  {
+    id: "live-free-for-gods-sake",
+    title: "Live Free For Gods Sake",
+    content: 'Are you self-oriented or God-oriented? Dive into this thought-provoking question with the first message in our new series, For God’s Sake. Pastor Adam Smallcombe explores 1 Peter to challenge and expand your understanding of freedom—not just from a worldly perspective, but true biblical freedom. Press play to “Live Free for God’s Sake”.',
+    date: "2024-05-13",
+    src: "https://www.youtube.com/embed/NOn3W21dOQU?si=U5SR8mUXtLNeNSYU",
+    coverImg: LiveFreeForGodsSake,
+    series: "For Gods Sake",
+    scriptures: [
+      '1 Peter 2:11-17',
+      'Hebrews 11:6',
+      'John 14:15',
+      'Romans 8:8',
+      'Matthew 17:24-27',
+      'Galatians 5:1',
+      '1 Peter 2:16',
+      'Romans 6:15-22'
+    ],
+    notes: [
+      '1 Peter 2:11-17 - Live Free For God’s Sake. In this series Pastor Adam Smallcombe goes deep into the book of 1 Peter. In 1 Peter 2 we see Peter writing to the Christians who are scattered throughout the world. He is encouraging them to live a life that is holy and pleasing to the Lord. He is encouraging them to live a life that is set apart for the Lord.',
+      'From this verse we come to see that freedom without a purpose is completely wasted. Results in a wasted life. To do anything for anyone beyond your own benefit is not the norm. Even though were believers there is times where we put ourselves over the kingdom objectives.',
+      'Christianity cannot be about me or my emotions, even in worship! People have become complacent to living a life that checks off the boxes of being a christian without intentionality. When it is intentional we know that it is not about ourselves, but about the Lord, about his Kingdom and his plan for us here on earth. This is how youre able to bring heaven on earth, because heaven on earth is where Jesus is at. Through him we experience this!',
+      'We have to move from our own sake mentality to -> For Gods Sake mentality. When you begin the life of self sacrifice, you begin to experience the calling of God. A clear sign of maturity.',
+      'Peter in this scripture pushes this idea to submit yourselves to the Lord and even to others for Lords sake. The Lord gives us the power to submit, a sign of his love and freedom. But now with this freedom we have this choice, to submit, or not.',
+      'In Matthew 17 we see the story of Jesus paying the temple tax. Jesus was not required to pay the temple tax, but he did so to not cause offense. Because of this the Lord demonstrated how he was above the law. How he was not required, but his freedom did affect those around him, and how chosing to pay the tax was a righteous act.',
+      'A self-oriented walk with God it will only produce self-centered prayers. You should asses your prayer life to see if your Christianity is all about you. Christian maturity is a radical reordering of your life and the steps youre taking to please God. How do we please God if thats the case?',
+      'We know that Romans 8:8 says that those who are in the realm of the flesh cannot please God. We know that the Lord is looking for those who are willing to submit to him, to live a life that is pleasing to him in the Spirit. Walking in the Spirit is how were able to be pleasing to Him!',
+      'Christian feeedom is being free from the obligation that the flesh desires. We used to be slaves to sin, but through Christ we are free, co-heirs of the Kingdom of the Lord. Christian freedom is from myself, not for myself. Whatever we chose to obey we become slave too, so let set ourselves to righteous living.',
+      'We are either slaves to Christ or slaves to the world. There is no in-between! When you chose to be your own master, you will be bound by your desires which leads to condemnation. Since only Christ has conquered the world, chosing to be a slave to Christ, you will be free to live a life that is pleasing to the Lord. A life that is set apart for the Lord. A life that is holy and pleasing to the Lord. A life that is free for God’s sake.'
+    ],
+  },
   {
     id: "wisdom-is-found-in-fear",
     title: "Wisdom Is Found In Fear",

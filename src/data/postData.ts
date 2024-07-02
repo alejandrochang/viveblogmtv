@@ -16,8 +16,57 @@ import NeverLetItRest from "../assets/neverletitrest.jpg";
 import HumbleBrag from "../assets/humblebrag.jpg";
 import WisdomIsFoundInFear from "../assets/wisdomisfoundinfear.jpg";
 import LiveFreeForGodsSake from "../assets/livefreeforgodssake.jpg";
+import FoolsForGodsSake from "../assets/foolsforgodssake.jpg";
+import RobTheGrave from "../assets/robthegrave.jpg";
 
 const PostData = [
+  {
+    id: "rob-the-grave",
+    title: "Rob The Grave",
+    content: 'The AMEN Experience continues with AMEN Sunday. Pastor KJay Johnson from Radiant Church preaches a power filled message, “Rob the Grave”. He challenges us not to leave this earth without reaching our full potential and unwrapping all the gifts God has given us. Lean in and press play again and again.',
+    date: "2024-06-30",
+    src: "https://www.youtube.com/embed/i2H1ByevsYk?si=GTAT8PZaUea2AMo",
+    coverImg: RobTheGrave,
+    series: "Amen Conference",
+    scriptures: [
+      'Genesis 2:7',
+      'Genesis 1:27-28',
+      'Genesis 1:11',
+      'Eclesiastes 9:10'
+    ],
+    notes: [
+      'God wants you to rob the grave. Because our God has robbed the grave, the grave wanted to hold our King, wanted to hold Jesus, but because he has robbed it of its power of the former authority it had, we now can do the same!',
+      'This is what Genesis 2:7 says: Then the Lord God formed a man[a] from the dust of the ground and breathed into his nostrils the breath of life, and the man became a living being. Our job is to become all that God has called us to be. God has blew his breath inside of us to live out his calling.',
+      'God created us from dirt. When you look at everything that God has created there are so many elements, but why would he make his prize posession from dirt?',
+      'Dirt is the only thing on earth that can create life. When you put a seed inside Eart, earth gives birth to a harvest. Because were made out of dirt we can know have harvest, we can now be fruitful, we can know multiply. We can now be all that God has called us to be.',
+      'Dirt is greater than any other material. I made you out of earth, because I put seed in you. Theres seed on the inside. Your seed needs 4 things: dirt, water (nourished by the Word of God), oxygen(the breathe of life) and the last thing is the sun (Son - Jesus to make you whole)',
+      'God has created us to be fruitful, to give life to others and has blessed us to do it. The blessing doesnt make us fruitful. We were blessed than we were told to be fruitful and multiply. The instruction is to be fruitful, the Lord made you seedful and to plant those seeds in good soil so they can become a harvest.',
+      'The seed is In YOU! You have no excuse to not become what God has called you to be. To step into the extraordinary! Those seeds will become fruit, and those trees will expand producing much fruit. For whatever you have to do, do it with you might is what Eclesiastes says.',
+      'When you get to the grave, theres nothing you can do. One of the greatest keys to greatness is to do your best. Everytime you touch your ceiling it turns to your floor. Everytime your growing, its because youre stretching. The moment you stop growing, is the moment you stop dying. ALWAYS BE GROWIONG so you can live full and ROB THE GRAVE.',
+      'When you got the grave you go empty handed, because now you live fully and have empty hands. Reaping a life pursuit of righteousness through the Will of God. On your journey to rob the grave you will go through many difficulties, it will cost you something, but it is worth it. Your calling is worth it, Jesus plan for you is worth it!'
+    ],
+  },
+  {
+    id: "fools-for-gods-sake",
+    title: "Fools For Gods Sake",
+    content: '“Fools for God’s Sake” is a message that will provoke a deeper understanding of 1 Corinthians 4. Pastor Adam Smallcombe tackles the correlation between commitment and conviction, for your commitment is a result of your conviction. Lean in and prepare to grow stronger in your commitment to Christ today.',
+    date: "2024-06-09",
+    src: "https://www.youtube.com/embed/N1LQ4DMHdRU?si=5aTHcvH0hOttzvz6",
+    coverImg: FoolsForGodsSake,
+    series: "For Gods Sake",
+    scriptures: [
+      '1 Corinthians 4:1-10',
+      'Luke 9:62',
+      'Matthew 5:37',
+      '1 Samuel 14:7',
+      'John 5:19'
+    ],
+    notes: [
+      '1 Corinthians 4:1-10 - Fools For God’s Sake. In this series Pastor Adam Smallcombe goes deep into the book of 1 Corinthians. In 1 Corinthians 4 we see Paul writing to the church in Corinth. He is addressing the divisions that are happening in the church. He is addressing the fact that the church is divided over who they are following. Some are following Paul, some are following Apollos, some are following Peter, and some are following Christ.',
+      'In general we see this theme of how these followers of Christ have become apathetic to their mission of following Christ. It has become this concept and idea of preference politics, not the true gospel, the true good news. It has become a what makes me feel good revelation rather than what the scriptures say!',
+      'People...',
+    ],
+  },
   {
     id: "live-free-for-gods-sake",
     title: "Live Free For Gods Sake",

@@ -55,6 +55,15 @@
   font-size: 20px;
 }
 
+.blog-post .series-style {
+  background-color: #9e1818;
+  width: fit-content;
+  padding: 5px;
+  border-radius: 4px;
+  font-size: 12px;
+  color: white;
+}
+
 body {
   margin: 0;
   padding: 0;
@@ -100,7 +109,7 @@ header img {
 
 header span {
   position: relative;
-  color: #b06447;
+  color: #9FB2B8;
   border-radius: 5px;
   font-family: "Lucida Console", "Courier New", monospace;
   font-weight: bold;

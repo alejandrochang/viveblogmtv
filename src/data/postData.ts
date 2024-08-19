@@ -1,6 +1,34 @@
 import ItsTheThoughts from "../assets/itsthethoughts.jpg";
+import TheRealThing from "../assets/therealthing.jpg";
 
 const PostData = [
+  {
+    id: "the-real-thing",
+    title: "The Real Thing",
+    content: 'Our Main Character series is refining our character. Pastor Keira Smallcombe brings us a message based on Romans 12 that shapes our understanding of authentic Christianity. “The Real Thing” paints a picture of how God wants us to love. Press play and let a zealous love work in your life.',
+    date: "2024-08-18",
+    src: "https://www.youtube.com/embed/P-WMwIMhk2s?si=msuThxDk1OZ3gcEN",
+    coverImg: TheRealThing,
+    series: "Main Character",
+    scriptures: [
+      'Romans 12:9-12',
+      '1 John 4:7-12',
+      'Genesis 22:2',
+      'Song of Songs 8:6-7',
+      'Ruth 1:16',
+      'John 3:16',
+      'Romans 12:1-2',
+    ],
+    notes: [
+      'Authenntic Christianity? What is it, how can we achieve it and what does it look like? In this message we are reminded that we are not the main character of our story, Jesus is. Pastor Keira Smallcombe brings us a message based on Romans 12 that shapes our understanding of authentic Christianity. “The Real Thing” paints a picture of how God wants us to love. Press play and let a zealous love work in your life.',
+      'In Romans 12:9-12 we begin to see what Paul describes as true christianity. He describes it as a love that is genuine, a love that is not hypocritical. This is the love that we are called to have for one another. This is the love that we are called to have for the Lord and for his people.',
+      'We come to see that love can be with hypocrisy, can be fake. Only through the Lord we are able to receive the pure, unfiltered, highest form of love. God cares about the quality of LOVE. AGAPE love is the gold standard for love. ',
+      'Genuine love comes from the heart, through Jesus. There are different types of love, and the one we should strive for is Agape, based on the greatest example Jesus gave us through his sacrifice. The Lord chose to love us, a decision that was made before the foundation of the world. We have to follow this example and CHOSE TO LOVE FULL OF OUR HEART.',
+      'In 1 John 4:7-12 we see that God is love. This is the love that we are called to have for one another. This is the love that we are called to have for the Lord and for his people. Only through knowing God you will be able to give this love. It is impossible to give this love without knowing Jesus as the Word clearly describes.',
+      'We must not torelate evil. Tolerance of evil is an absence of full love. Through love we are able to make a clear seperation between what is from God(Love) and what is from the World. Love is not just a feeling, it is a decision. Love is not attached to oucomes or human responnses. Real Love Works. We need to let love work (zeal). A true love will be fervent in spirit, passionate about serving the one you love.',
+      'We love because the Lord loved us first. Love starts with a decision to love nno matter the circumstance. This truest form of love can only come from the King.'
+    ],
+  },
   {
     id: "its-the-thoughts-that-count",
     title: "It's the Thoughts that Count",

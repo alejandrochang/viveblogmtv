@@ -1,7 +1,35 @@
 import ItsTheThoughts from "../assets/itsthethoughts.jpg";
 import TheRealThing from "../assets/therealthing.jpg";
+import IThinkSo from "../assets/ithinkso.jpg";
 
 const PostData = [
+  {
+    id: "i-think-so",
+    title: "I Think So",
+    content: 'In this message, Pastor Adam Smallcombe draws a powerful connection between the words we speak and the strength of our character. ‘I Think So,’ challenges us not just to guard our speech but to examine the condition of our hearts. It’s a call to recognize that our words are a direct reflection of what’s within.',
+    date: "2024-08-18",
+    src: "https://www.youtube.com/embed/_Szu2gUrBHs?si=igqQrQKqEqOSmMMQ",
+    coverImg: IThinkSo,
+    series: "Main Character",
+    scriptures: [
+      'Romans 12:12-17',
+      'Luke 6:45',
+      'Colossians 3:1-9',
+      'John 8:44',
+      'Numbers 23',
+      'John 8:31',
+    ],
+    notes: [
+      'In this message, Pastor Adam Smallcombe draws a powerful connection between the words we speak and the strength of our character. ‘I Think So,’ challenges us not just to guard our speech but to examine the condition of our hearts. It’s a call to recognize that our words are a direct reflection of what’s within.',
+      'In Romans 12:12-17 we see that we are called to be joyful in hope, patient in affliction, and faithful in prayer. We are called to share with the Lord’s people who are in need and to practice hospitality. We are called to bless those who persecute us; bless and do not curse. We are called to rejoice with those who rejoice; mourn with those who mourn. We are called to live in harmony with one another. We are called to not be proud, but be willing to associate with people of low position. We are called to not be conceited.',
+      'In particular we pay attention to the power that the Lord has given us via our own words. We have the power to speak life or death into the world. This power comes at a great cost because we can either bless or curse. The Lord calls us higher, that even during persecution we must bless those who are trying to hurt us.',
+      'We come to see that Luke 6:45 says that "out of the abundance of the heart the mouth speaks". This is a clear indication that our words are a direct reflection of what is within us. This is why we must be careful with what we say, because it is a direct reflection of our character and ultimately our heart posture.',
+      'Since our words are a reflection of whats living inside of us it truly puts into perspective who we really are. Through our words our character is ultimately discovered. Character discovery can be discovered through our language. Could lying be potentially preventing you from finding your identity in Christ? Would telling the truth then make you think about heavenly things and the Kingdom at hand?',
+      'According to the Word this is clear. Since lying is the language of the adversary, we must be careful with what we say. We must be careful with what we say because it is a direct reflection of what we are letting mold us. WE MUST BE AGENTS OF TRUTH.',
+      'The Lord says I am the truth and the life. The keys to the Kingdom is found in the truth for us to operate at our full identity in Christ, to operate in the fullness of the Kingdom. When we lie we lose our keys, ultimately our authority and even our identity in Christ.',
+      'We act according to our thoughts so meditate on what is good, focus on the language of truth. As you speak truth and abide in truth, your mind is renewed by the truth allowing you the hear the fullness of Gods plan for your life to operate at the God Given scale the Lord wants us to operate in.'
+    ],
+  },
   {
     id: "the-real-thing",
     title: "The Real Thing",

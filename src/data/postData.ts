@@ -1,8 +1,38 @@
 import ItsTheThoughts from "../assets/itsthethoughts.jpg";
 import TheRealThing from "../assets/therealthing.jpg";
 import IThinkSo from "../assets/ithinkso.jpg";
+import CalculatingCharacter from "../assets/calculatingcharacter.jpg";
 
 const PostData = [
+  {
+    id: "calculating-character",
+    title: "Calculating Character",
+    content: 'In the final message of our "Main Character" series, Pastor Vance gives us a powerful sermon titled "Calculating Character." Based on Romans 12 this message gives us a deeper understanding of forgiveness. Who do you need to forgive? Don’t hold on to resentment- let it go and embrace true freedom today.',
+    date: "2024-09-01",
+    src: "https://www.youtube.com/embed/MM9zOL0ChKg?si=8WV7W7irHiPp4sPF",
+    coverImg: CalculatingCharacter,
+    series: "Main Character",
+    scriptures: [
+      'Romans 12:18-21',
+      'Hebrew 8:12',
+      'Matthew 18:15-17',
+      'Matthew 18:21-35',
+      'Luke 17:3',
+      'Matthew 6:9',
+      'Matthew 7:7',
+    ],
+    notes: [
+      'In the final message of our "Main Character" series, Pastor Vance gives us a powerful sermon titled "Calculating Character." Based on Romans 12 this message gives us a deeper understanding of forgiveness. Who do you need to forgive? Don’t hold on to resentment- let it go and embrace true freedom today.',
+      'Something we have to understand is that misunderstanding tools for hygene can end up hurting us in ways we couldnt think of. This is typically the case with misunderstanding forgiveness.',
+      'As believers and people who follow Christ we know we must forgive. Sometimes however, we think we have forgiven, but it could be we have forgotten instead.',
+      'When conflict arises, the offense needs to be defined by the individual. If its not it cant be addressed. When we dont address the conflict we begin to create fences around us and others.',
+      'The longer the fence, the bigger the fence, the harder it will be to take the walls down. One way to knnow what forgiveness is, is to evaluate what is not. Some things is not: 1. Ignoring/forgetting, 2. Not tolerating, 3. Reconciliation.',
+      'Forgiveness is not tolerating, but accepting what has occured and still forgiving. Reconciliation involves that two parties forgive. However, this is not always the case if situations are hostile, unhealthy and against your well-being.',
+      'How do we achieve this level of forgiveness when one has hurt us? We can begin this level of faith by looking at the cross. The Lord mentions he has forgiven our transgressions and iniquities from East to West. He choses to not remember them. Does this mean he cant, of course not as the Lord is omniscent and knows all. That is the love of the Lord.',
+      'Our forgiveness from Christ can never be paid back. He paid a debt he didnt owe. By his grace and mercy we have been forgiven. WE MUST FORGIVE OTHERS. How can a person pay you back when you have placed them in prison? This is the concept of unforgiveness.',
+      'Youre going to have a lifetime of forgiveness to practice and get used too. We must practice forgiveness and learn to release it like a muscle. Breathe in and breathe out, for forgiveness brings freedom and joy in Christ that cannot be bought. The calculation of our character is seen  on the cross. God calculus for forgiveness is greater than our calculation could ever be.'
+    ],
+  },
   {
     id: "i-think-so",
     title: "I Think So",

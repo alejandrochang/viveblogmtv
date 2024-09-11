@@ -10,7 +10,7 @@ const PostData = [
     title: "How To Make Money",
     content: 'How can effective money management create space for the miraculous? Pastor Adam launches the financial stewardship series, It All Makes Cents, with a powerful message from Luke 16. He shares three practical tools to help you take control of your finances and make your money work for you.',
     date: "2024-09-08",
-    src: "https://www.youtube.com/embed/MM9zOL0ChKg?si=8WV7W7irHiPp4sPF",
+    src: "https://www.youtube.com/embed/pDZ0f-dtrYM?si=d9XDePA74Yans8RK",
     coverImg: HowToMakeMoney,
     series: "It All Makes Cents",
     scriptures: [

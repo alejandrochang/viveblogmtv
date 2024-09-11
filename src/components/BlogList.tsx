@@ -10,7 +10,7 @@ const BlogList: React.FC<BlogListProps> = ({ posts, seriesScripture }) => (
         <img src={coverImg} alt={title} />
         <div className="blog-content">
           <p className="title">{title}</p>
-          <p className="series-style">{series}</p>
+          <p className={series === 'Main Character' ? 'series-style' : 'series-style-blue'}>{series}</p>
           <br />
           <p>{content}</p>
         </div>

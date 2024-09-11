@@ -2,8 +2,37 @@ import ItsTheThoughts from "../assets/itsthethoughts.jpg";
 import TheRealThing from "../assets/therealthing.jpg";
 import IThinkSo from "../assets/ithinkso.jpg";
 import CalculatingCharacter from "../assets/calculatingcharacter.jpg";
+import HowToMakeMoney from "../assets/howtomakemoney.jpg";
 
 const PostData = [
+    {
+    id: "how-to-make-money",
+    title: "How To Make Money",
+    content: 'How can effective money management create space for the miraculous? Pastor Adam launches the financial stewardship series, It All Makes Cents, with a powerful message from Luke 16. He shares three practical tools to help you take control of your finances and make your money work for you.',
+    date: "2024-09-08",
+    src: "https://www.youtube.com/embed/MM9zOL0ChKg?si=8WV7W7irHiPp4sPF",
+    coverImg: HowToMakeMoney,
+    series: "It All Makes Cents",
+    scriptures: [
+      'Luke 16:1-14',
+      'Hebrews 13:5',
+    ],
+    notes: [
+      'Money can be a master, but it can also be a servant. In this message, Pastor Adam launches the financial stewardship series, It All Makes Cents, with a powerful message from Luke 16. He shares three practical tools to help you take control of your finances and make your money work for you.',
+      'In Luke 16:1-14 we see the parable of the dishonest manager. This parable is a powerful reminder that we are called to be good stewards of the resources that God has given us. We are called to be faithful with what we have been given, no matter how much or how little that may be.',
+      'We come to see that money is a tool that can be used for good or for evil. It can be a master or a servant. It can be a source of stress or a source of blessing. It all depends on how we choose to use it. We must be good stewards of the resources that God has given us.',
+      'In the sermon we see that moeny is an incredible tool when it doesnt intoxicate your thinking. Not every decision has to be based off of profit. If youre thinking this way, you are not thinking like a steward. You are thinking like a master. We must be careful with how we view money and how we use it.',
+      'Anything that we try and have control over, will have control over us. This applies to all things, but especially money. When you grasp it for control and for tightness, it will have control over your thoughts, mind and ultimately your heart.',
+      'We are meant to be givers in every spehere. A giver always has a lose hand and is willing to give freely. Never holding tightly to what he does not own. I know I am not controlled by it if I can release it.',
+      'Money is not inherently evil, but the love of money is. STEWARDSHIP MAKES MARGIN FOR THE MIRACULOUS. Miracles happen when we steward correctly. We must be faithful with what we have been given, no matter how much or how little that may be. Margin is a result of trust + faithfulness',
+      'The question we must ask ourselves is am I a good manager with what I have been entrusted with? If not, where can I improve? Money is a seed, the goal of a seed is not storage. You sow the seed your produce.',
+      'Trust God with the output, You are entrusted with the input. Acknowledge where everything comes from and see your blessings multiply. The practical question can be How do I go from wanting money to making money? ',
+      '1. Revelation of the principles the Lord has set before me. I cant stand back - take ACTION. USE IT BEFORE YOU LOSE IT.',
+      '2. We try to skip the principles, and go back to the patterns. WE cant!',
+      '3. Learn to make mistakes - and learn from them.',
+      'Stewarding money is about more responsibility, Gods plan is that youre an owner not just a renter. Do you trust Him with your finances and the output?'
+    ],
+  },
   {
     id: "calculating-character",
     title: "Calculating Character",

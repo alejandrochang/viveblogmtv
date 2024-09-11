@@ -64,6 +64,15 @@
   color: white;
 }
 
+.blog-post .series-style-blue {
+  background-color: #cbc276;
+  width: fit-content;
+  padding: 5px;
+  border-radius: 4px;
+  font-size: 12px;
+  color: white;
+}
+
 body {
   margin: 0;
   padding: 0;

@@ -3,8 +3,32 @@ import TheRealThing from "../assets/therealthing.jpg";
 import IThinkSo from "../assets/ithinkso.jpg";
 import CalculatingCharacter from "../assets/calculatingcharacter.jpg";
 import HowToMakeMoney from "../assets/howtomakemoney.jpg";
+import Begin from "../assets/begin.jpg";
 
 const PostData = [
+    {
+    id: "begin",
+    title: "Begin",
+    content: 'Join Pastor Adam Smallcombe as he shares a monumental message from the launch of VIVE Frankfurt. In this message, Begin, discover how grace not only offers us a fresh start but propels us forward with a head start. Don’t miss the opportunity to be a part of a Vision fulfilled.',
+    date: "2024-09-15",
+    src: "https://www.youtube.com/embed/polCgiYkd9E?si=ka5QiUZBXQy7FgXJ",
+    coverImg: Begin,
+    series: "VIVE Frankfurt",
+    scriptures: [
+      'Ephesians 3:14-21',
+      'Ephesians 2:13',
+      'Ephesians 2:4-5',
+    ],
+    notes: [
+      'In this message, Begin, we discover how grace not only offers us a fresh start but propels us forward with a head start. Don’t miss the opportunity to be a part of a Vision fulfilled and the calling the Lord has on your life.',
+      'In Ephesians 3:16 we see that the Lord is able to do immeasurably more than all we ask or imagine, according to his power that is at work within us. This is a powerful reminder that the Lord is able to do more than we could ever ask or imagine.',
+      'This brings us the revelation forth that we are better than we think. We are better than we can ever imagine. Not by anything we have done or can do, but by the immense power and glory of God that lives within us.',
+      'Paul pushes and emphasizes this reminder to the believers of what we have in Christ. The reason Paul goes in depth in this area is because many believers who become condemned by sins, addictions, fear, anxieties and vices of the world feel trapped and have a tendency to feel like theyre going back to a fresh new start.',
+      'However, what if grace is not just a starting point, but much more? What if grace is a head start? What if grace is a head start to the calling the Lord has on your life? What if grace is a head start to the vision the Lord has for you?',
+      'Although a bump on the road, or a setback may feel like youre starting all over again. This is not the case based on the argument that Paul makes. The enemies plan is simple, to use your past, your shame and sin to think youre in a deficit. His goal is discouragement to be in self-defeat.',
+      'Since we already have the victory in Christ, he cannot defeat you. His best tactic is for you to give up and defeat yourself. Grace is a head start, a place of proximity to the King. Due to his sacrifice we can enter the Holy of Holies, there is no need for us to sit in the outercourt. We can always begin in the most holy place, because the Lord is holy, we are therefore Holy.'
+    ],
+  },
     {
     id: "how-to-make-money",
     title: "How To Make Money",

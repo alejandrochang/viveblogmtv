@@ -4,9 +4,34 @@ import IThinkSo from "../assets/ithinkso.jpg";
 import CalculatingCharacter from "../assets/calculatingcharacter.jpg";
 import HowToMakeMoney from "../assets/howtomakemoney.jpg";
 import Begin from "../assets/begin.jpg";
+import ProblemsWillSolve from "../assets/problemsWillSolve.jpg";
 
 const PostData = [
-    {
+  {
+    id: "problems-will-solve-your-money",
+    title: "Problems Will Solve Your Money",
+    content: 'Pastor Adam Smallcombe continues “It All Makes Cents” in this powerful message “Problems Will Solve Your Money”. This message will unpack biblical principles of new covenant giving. Pastor Adam shows us not to just give with our heads but to give with our hearts. Press play and get ready to tip the scales of your generosity.',
+    date: "2024-09-15",
+    src: "https://www.youtube.com/embed/FdGL25FsFeY?si=uSHoVgPxn4WtBK-1",
+    coverImg: ProblemsWillSolve,
+    series: "It All Makes Cents",
+    scriptures: [
+      'Luke 6:37-42',
+      'Deuteronomy 8:17-18',
+      '2 Corinthians 9:6-7'
+    ],
+    notes: [
+      'In the world we have always heard the saying ‘more money, more problems’, but what if I told you ‘problems will solve your money’, would you believe it? In the Kingdom world we come to see that when we are diligent and faithful with the small things, the Lord will trust us with much more.',
+      'In this sermon Pastor Adam mentions how what we have comes from God, with this realization we have to steward what has been given to us, diligently. The reflection of our stewardship shows how much of a revelation we have that God is the source of it all.',
+      'God is in control and all of it belongs to the Lord. When one realizes that ‘All I got is from the Lord’ the perspective changes on the dynamic between problems and money. Something we have to realize is that God is not desperate for recognition. He doesn’t need credit for your life. God Has No Needs. However, when one places their heart on other things outside of God, he will reinforce his reputation as a provider in your life. This can be done in a variety of ways. His reputation of being faithful, and being a provider. “I’m there for you, I got you, everything I got is from me, I’ll provide”.',
+      'Jesus is most concerned with your heart. Where your treasure is your heart will be. If I go after your treasure I’ll get your heart. He’s not concerned about your desires(money, fame). Concerned where your heart is and how you acknowledge Him. The Lord is a righteously jealous God, who deserves all glory and focus!',
+      'We want to build a principle life (roots that grow down deep). A foundation that’s firm, a bedrock that’s unshakable through biblical principles. Example of business principles: Best products always solve the biggest problems. If you aim at fixing problems you’ll always hit money. Example of biblical principles: Do not judge you won’t be judged, do not condemn and you won’t be condemned, forgive and you will be forgiven.',
+      'A biblical principle is a fundamental truth that produces a divine system of cooperation between Heaven and me. When God gives a promise he’ll do it in spite of you. A principle requires some action (cooperation) if you participate it will come into effect.',
+      'There are other lawys like Natural laws that require nothing, a spiritual or biblical law requires your involvement, however. As I give, it comes back to me, this requires my participation. For a new level of grace had to be a new level of measure, the blood of the lamb, more than necessary (running over) was what was given to me. He let’s you take the lead of what you think is generosity, love, kindness, goodness, faithfulness, patience, dirtiness. Give with your heart. Give what you have decided in your heart to give. I owe it to the King, why wouldnt I give him my best. He loves when you give it from your heart and not the head, for it is the heart He is after!',
+      ''
+    ],
+  },
+  {
     id: "begin",
     title: "Begin",
     content: 'Join Pastor Adam Smallcombe as he shares a monumental message from the launch of VIVE Frankfurt. In this message, Begin, discover how grace not only offers us a fresh start but propels us forward with a head start. Don’t miss the opportunity to be a part of a Vision fulfilled.',

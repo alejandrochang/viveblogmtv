@@ -13,7 +13,7 @@ const PostData = [
     title: "The Key To Contentment",
     content: 'What are your priorities in life? In this message, Pastor Adam Smallcombe reminds us that the greatest key to contentment lies in seeking first the Kingdom of God. Rather than placing God’s purpose last on our list, we are called to make it our top priority. When we do, everything else falls into place as God faithfully provides. Press play on “The Key to Contentment” to learn how to shift your priorities.',
     date: "2024-10-13",
-    src: "https://www.youtube.com/embed/",
+    src: "https://www.youtube.com/embed/1-F5LehgLao?si=DUia0VmjFKQzVe3P",
     coverImg: KeyToContentment,
     series: "It All Makes Cents",
     scriptures: [

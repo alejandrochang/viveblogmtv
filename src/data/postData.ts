@@ -5,8 +5,35 @@ import CalculatingCharacter from "../assets/calculatingcharacter.jpg";
 import HowToMakeMoney from "../assets/howtomakemoney.jpg";
 import Begin from "../assets/begin.jpg";
 import ProblemsWillSolve from "../assets/problemsWillSolve.jpg";
+import KeyToContentment from "../assets/keytocontentment.jpg";
 
 const PostData = [
+  {
+    id: "the-key-to-contentment",
+    title: "The Key To Contentment",
+    content: 'What are your priorities in life? In this message, Pastor Adam Smallcombe reminds us that the greatest key to contentment lies in seeking first the Kingdom of God. Rather than placing God’s purpose last on our list, we are called to make it our top priority. When we do, everything else falls into place as God faithfully provides. Press play on “The Key to Contentment” to learn how to shift your priorities.',
+    date: "2024-10-13",
+    src: "https://www.youtube.com/embed/",
+    coverImg: KeyToContentment,
+    series: "It All Makes Cents",
+    scriptures: [
+      'Hebrews 13:1-7',
+      'Psalm 37:4',
+      'Psalm 23',
+      'Ephesians 5:3-5',
+      'Colossians 3:1-3',
+      'Matthew 6:25-33',
+    ],
+    notes: [
+      'In this life we have the constant battle of walking by the Spirit and fighting our flesh. What your Spirit wants to do is be free, but there is a war that is happening with you flesh that tries to go against this freedom. One of the issues of self-contentment is constant comparison with others. What one must realize is that comparison never brings the full weight of the truth. With social media and snappy moments of peoples lives we only get to see half the story of peoples lives, but not the debt that people are carrying.',
+      'In this life, humans tend to mirror and see. We must be careful what you wish for, for some of these things you desire come at a cost. Excessive debt is either driven by anxiety or apathy. With anxiety we tend to spend on outrageous things (things we can’t afford), with apathy we cast of tomorrow like it doesn’t exists. An extreme on both ends. Living the life through the Spirit of God brings the harmony of both.',
+      'As a christian we carry tension between desire and not wanting. Desires are from God, however desires are for the greater good of Gods plan, not for them to have control over you.',
+      'True christian love is being hospitable, a servant, it does not have to benefit you.  A call to live beyond what you need. We must get out of the consumer mindset. Do not get stuck. Contributing to others needs is what brings true fulfilment and purpose. We must shift our perspective from being a getter to being a giver.',
+      '“Be satisfied with what you have”, is how we were created to live by. It is by design that the LORD made us this way, that He is enough for all of our most deepest needs. When we aren’t satisfied with what we have been entrusted with, is when anxiety, fear and doubt creep in. We are not standing where the LORD has entrusted us in, full confidence in Him.',
+      'Contentment is the key to purity, in all facets of life. From money, relationships to our inner most desires. The LORDs promise is “I Will never leave you or abandon you”. With this promise we have all we need, there is nothing more than is needed than Him.',
+      'The two main perspective keys to a life full of contentment is polarity and priority. Polarity is the change orientation of my perspective. We must come to the revelation that “if I don’t have it, I don’t need it”. God can do it regardless, but at the right time. His timing is perfect for when we need something. We must look from the heavens perspective. The second perspective priority is for us to prioritize the Kingdom of Heaven above all. So first seek the Kingdom of Heaven and all its righteousness and everything will be added to you.',
+    ],
+  },
   {
     id: "problems-will-solve-your-money",
     title: "Problems Will Solve Your Money",

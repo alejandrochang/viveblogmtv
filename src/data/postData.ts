@@ -6,8 +6,32 @@ import HowToMakeMoney from "../assets/howtomakemoney.jpg";
 import Begin from "../assets/begin.jpg";
 import ProblemsWillSolve from "../assets/problemsWillSolve.jpg";
 import KeyToContentment from "../assets/keytocontentment.jpg";
+import RightOnTheMoney from "../assets/righonthemoney.jpg";
 
 const PostData = [
+  {
+    id: "right-on-the-money",
+    title: "Right on the Money",
+    content: 'Right on the Money is the final message in the It All Makes Cents series. Pastor Adam Smallcombe shares how in propertiy or lack we have all that we need. This message will challenge you to trust God with your finances and to be content with what you have. Press play and get ready to be blessed!',
+    date: "2024-10-20",
+    src: "https://www.youtube.com/embed/y5ztxwAPjIU?si=yUfs84FzmJVlvqIU",
+    coverImg: RightOnTheMoney,
+    series: "It All Makes Cents",
+    scriptures: [
+      'Philippians 4:10-20',
+      '2 Corinthians 12:7-9',
+      '2 Romans 8:31',
+      'John 5:19-21',
+      'John 5:30'
+    ],
+    notes: [
+      'In the last installment of *It All Makes Cents* Pastor Adam focused on the theme Right on the Money. Something to reiterate is that this series has been all about freedom and not money. The LORD wants your heart and He will do anything to get it, as where your treasure lies so does your heart.',
+      'Something very interesting about wealth is that if you focus on creating it, you will also attract worry from it. We want to change our mindset from creating wealth to creating health. When one creates health, the wealth will follow. If your focus is on wealth creation, you will also attract worry, anxiety, stress as you will want to keep what you have. When you don’t have anything you tend to be bold as you have nothing to lose. As you get more you have things to lose which makes our human nature want to control.',
+      'Something we must ask ourselves is what is your financial goal? What is that goal and what is the purpose? Gods plan is that we live sufficiently. not excessively. If your goal is to live excessively with no purpose you will never get there.',
+      'As the WORD says “I am able to do all things through him who strengthens me.” In Philippians we come to see that Paul although at times had more than enough, and sometimes not enough, everything He has was everything he needed. The overflow of God is to meet a need (everything He gives will be put to work). Everything God gives is to multiply.',
+      'Something to note is that sufficiency in Christ leads you to dependency of Christ. Work is a gift, everything I have is a gift. Goal of the Christian life is greater dependence on every step of our lives. That is the truth of a maturing believer. If its is all about you, then all falls on you. But when you know all of it comes from God, and that everything is through Him and from Him, faith and belief in Him is what keeps you moving. So be dependent on Him and trust in the LORD, for our help comes from there. '
+    ],
+  },
   {
     id: "the-key-to-contentment",
     title: "The Key To Contentment",

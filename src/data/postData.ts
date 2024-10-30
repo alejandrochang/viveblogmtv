@@ -7,8 +7,30 @@ import Begin from "../assets/begin.jpg";
 import ProblemsWillSolve from "../assets/problemsWillSolve.jpg";
 import KeyToContentment from "../assets/keytocontentment.jpg";
 import RightOnTheMoney from "../assets/righonthemoney.jpg";
+import ForTheLord from "../assets/forthelord.jpg";
 
 const PostData = [
+  {
+    id: "for-the-lord",
+    title: "For The Lord",
+    content: "Prepare your hearts as Pastor Adam Smallcombe reveals the VISION for VIVE Church. In the most anticipated Sunday of the year, listen to this year’s VISION message “For the Lord”. Don’t miss this pivotal moment.",
+    date: "2024-10-27",
+    src: "https://www.youtube.com/embed/CzR_1vUqzuM?si=Vnlzp7iNatn2HQE",
+    coverImg: ForTheLord,
+    series: "Vision 2024",
+    scriptures: [
+      'Colossians 3:23'
+    ],
+    notes: [
+      'In this message, Pastor Adam Smallcombe reveals the VISION for VIVE Church. In the most anticipated Sunday of the year, listen to this year’s VISION message “For the Lord”. Don’t miss this pivotal moment.',
+      'We hear the word of the Lord in Colossians 3:23, “Whatever you do, work at it with all your heart, as working for the Lord, not for human masters”. This is a powerful reminder that everything we do, we do for the Lord. This is the heart of the VISION for VIVE Church.',
+      'We want to do everythinng through the filter of vision. What you built with the partnership with God. We must ask are we seeing lives transformed?',
+      'For it is not only for us to build the things that the LORD is telling us to do, but also how we build it. Colossians 3:23 makes it clear that we must build with excellency.',
+      'This is where we have to remind our heart that were created to do excellent work and that we do it unto God not man.',
+      'The life of a believer should be a Christian which has enthusiasm, is looking forward towards the things of the LORD. Enthusiasm, expectancy are all attached to the vision the LORD has placed in our hearts.',
+      'Tha apostle didnt say be the best, he said bring your best. BRINGING your best in all that you as WORKING FOR THE LORD AND NOT MEN. When this revelation becomes clear, we will constantly have vision that pushes us to be our best.',
+    ],
+  },
   {
     id: "right-on-the-money",
     title: "Right on the Money",

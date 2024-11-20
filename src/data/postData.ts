@@ -8,8 +8,37 @@ import ProblemsWillSolve from "../assets/problemsWillSolve.jpg";
 import KeyToContentment from "../assets/keytocontentment.jpg";
 import RightOnTheMoney from "../assets/righonthemoney.jpg";
 import ForTheLord from "../assets/forthelord.jpg";
+import BetterIsBest from "../assets/betterisbest.jpg";
 
 const PostData = [
+  {
+    id: "better-is-best",
+    title: "Better Is Best",
+    content: "What does it mean to be the best disciple? Pastor Adam Smallcombe continues the For The Lord series with his message, “Better is Best.” While defining “best” may seem impossible, striving to be better than yesterday is a goal every believer can reach. Through sanctification, we are set apart, growing closer to Christ and transforming to reflect His image daily. Open your Bible, grab your notebook, and prepare your heart for this impactful message.",
+    date: "2024-11-17",
+    src: "https://www.youtube.com/embed/NhSgqFqYibM?si=pubJa9QbMYmK8GQX",
+    coverImg: BetterIsBest,
+    series: "For The Lord",
+    scriptures: [
+      '1 Thessalonians 4:1-12',
+      '1 Peter 1:3-7',
+      'John 17:19',
+      '1 Peter 2:9-11',
+      '1 Peter 1:15-16',
+      'Hebrews 10:10',
+    ],
+    notes: [
+      'In this series Pastor Adam Smallcombe continues the For The Lord series with his message, “Better is Best.” While defining “best” may seem impossible, striving to be better than yesterday is a goal every believer can reach. Through sanctification, we are set apart, growing closer to Christ and transforming to reflect His image daily. Open your Bible, grab your notebook, and prepare your heart for this impactful message.',
+      'In 1 Thessalonians 4:1-12 we see that we are called to live a life that is pleasing to God. This is a powerful reminder that we are called to be set apart, to be sanctified, to be holy. This is the goal of every believer, to be better than we were yesterday.',
+      'It is not generally about being the best, but about being my best. The difference is substle but makes a huge difference. The one who strives to be his best version for the Lord is able to accomplish more than he can imagine. The one who doesnt focuses on others, but instead himself.',
+      'A question we must ask ourselves is What is the point if Im not getting better? This is incredible important especially when we bring the question of succesful discipleship. How can I be the best disciple, and how can I measure that?',
+      'Paul makes a strong argument that we must rejoice at all times. This reminer takes the burden off of serving others. Takes the weight off of trials and aligns us with a bigger purpose outside of us! It gives us power in Christ as our circumstances dont determine our response, but our God does.',
+      'We see in 1 Thessalonians that Paul goes on to say "Pray without ceasing", this is a powerful reminder that we are called to be in constant communication with the Lord. This is how we are able to be better than we were yesterday. Keeping the line of communication with our God open. Another incredible form to strengthen us and remain in the character that God has created us for.',
+      'Something important that the Word is teaching us here is to "not quench the Spirit of God". Quenching the Spirit can look like many things, one way it shows itself is when we start doing things our of reptition instead of Revelation.',
+      'We must make space for the Spirit of God to move in our lives. For the Spirit of the LORD to help us disceern prophecy and allow for our discernment to grow. We must abstain from evil as that is what the flesh desires and feed what strengthens the Spirit.',
+      'We must have a healthy "no", we are set apart and sanctified by the grace of God. There are 2 forms of sanctification, positional and progressive. Positional is what the Lord has done for us, progressive is what we are being transformed into. We must be set apart, we must be holy, we must be sanctified. By Gods grace and the Spirit of God we can be confident that through the Spirit we are better than we were yesterday.',
+    ],
+  },
   {
     id: "for-the-lord",
     title: "For The Lord",
